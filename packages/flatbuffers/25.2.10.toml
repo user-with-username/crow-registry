@@ -1,0 +1,2 @@
+git = "https://github.com/google/flatbuffers"
+commit = "1c514626e83c20fffa8557e75641848e1e15cd5e"

@@ -1,0 +1,2 @@
+git = "https://github.com/GNOME/libxml2"
+commit = "de918d45e1b2276a28a4cd32bcf556bef65284e4"

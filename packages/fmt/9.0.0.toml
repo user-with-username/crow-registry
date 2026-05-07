@@ -1,6 +1,2 @@
-# fmt 9.0.0
-# Source: https://github.com/fmtlib/fmt
-# Generated: 2026-05-06T18:32:52.036611
-
 git = "https://github.com/fmtlib/fmt"
 commit = "c4ee726532178e556d923372f29163bd206d7732"

@@ -1,0 +1,2 @@
+git = "https://github.com/PortAudio/portaudio"
+commit = "61f17cde172c8f84c73f5618a88cf207520195eb"

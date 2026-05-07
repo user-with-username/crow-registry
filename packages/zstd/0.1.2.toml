@@ -1,0 +1,2 @@
+git = "https://github.com/facebook/zstd"
+commit = "9c57b424d6f24629de7c7249e4e847900846887b"

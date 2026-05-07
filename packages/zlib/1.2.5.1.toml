@@ -1,0 +1,2 @@
+git = "https://github.com/madler/zlib"
+commit = "10daf0d4d7815447799d555d04d30325836e1d44"

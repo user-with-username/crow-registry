@@ -1,0 +1,2 @@
+git = "https://github.com/glfw/glfw"
+commit = "dc46d3f8129712e42856c20e99a604a3b08ad581"

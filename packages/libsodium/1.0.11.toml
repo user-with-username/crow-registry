@@ -1,0 +1,2 @@
+git = "https://github.com/jedisct1/libsodium"
+commit = "2f4f718cd94adab547c210a78050762cf667dfca"

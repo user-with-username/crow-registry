@@ -1,0 +1,2 @@
+git = "https://github.com/libsndfile/libsndfile"
+commit = "d60deb5d8691997b6bb28d88e3b43f322073d146"

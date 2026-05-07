@@ -1,0 +1,2 @@
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "a8d85ffbc7158660b4247f732371d1b07780510e"

@@ -1,0 +1,2 @@
+git = "https://github.com/simdjson/simdjson"
+commit = "0112be86b0dec7fd979d10f0cf405c1197181769"

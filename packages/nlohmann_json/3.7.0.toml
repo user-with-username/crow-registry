@@ -1,0 +1,2 @@
+git = "https://github.com/nlohmann/json"
+commit = "53c3eefa2cf790a7130fed3e13a3be35c2f2ace2"

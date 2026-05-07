@@ -1,0 +1,2 @@
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "9d55db6621613adf9ccea21dbc853fbd27ea2924"

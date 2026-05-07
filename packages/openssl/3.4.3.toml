@@ -1,0 +1,2 @@
+git = "https://github.com/openssl/openssl"
+commit = "474f0e27bc6b23bbc3ae18543ede9315adfddf1a"

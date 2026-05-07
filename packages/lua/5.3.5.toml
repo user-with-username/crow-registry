@@ -1,0 +1,2 @@
+git = "https://github.com/lua/lua"
+commit = "063d4e4543088e7a21965bda8ee5a0f952a9029e"

@@ -1,0 +1,2 @@
+git = "https://github.com/sqlite/sqlite"
+commit = "a5333afb9ad1aa473f8963b92caeaa955f47dc74"

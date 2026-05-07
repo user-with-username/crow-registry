@@ -1,0 +1,2 @@
+git = "https://github.com/zeromq/libzmq"
+commit = "12dede9a13967667a2a643a137443c1f8db4cb72"

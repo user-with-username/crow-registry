@@ -1,0 +1,2 @@
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "87e53f6cc7b7c57e778d42df09df3c2fe80919b3"

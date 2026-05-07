@@ -1,0 +1,2 @@
+git = "https://github.com/google/googletest"
+commit = "ec44c6c1675c25b9827aacd08c02433cccde7780"

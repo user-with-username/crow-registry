@@ -1,0 +1,2 @@
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "a0ec5c32af5c5f5a52168dc2748be910dba14810"

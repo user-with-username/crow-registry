@@ -1,0 +1,2 @@
+git = "https://github.com/microsoft/cpprestsdk"
+commit = "411a109150b270f23c8c97fa4ec9a0a4a98cdecf"

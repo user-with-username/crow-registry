@@ -1,0 +1,2 @@
+git = "https://github.com/abseil/abseil-cpp"
+commit = "d38452e1ee03523a208362186fd42248ff2609f6"

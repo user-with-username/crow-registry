@@ -1,0 +1,2 @@
+git = "https://github.com/msgpack/msgpack-c"
+commit = "7e56a0807423699e041cb8d09407e3cf79ce164b"

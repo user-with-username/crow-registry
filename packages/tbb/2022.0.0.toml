@@ -1,0 +1,2 @@
+git = "https://github.com/oneapi-src/oneTBB"
+commit = "c89df93c5fdb40a1e20d2b135e8eec6f185e1291"
