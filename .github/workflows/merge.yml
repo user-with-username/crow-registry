@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: read
 
 jobs:
   merge:
@@ -16,14 +17,69 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
+      - name: Get PR author and check restrictions
+        id: pr_info
+        run: |
+          PR_AUTHOR=$(curl -s \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "${{ github.api_url }}/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}" | \
+            jq -r '.user.login')
+          
+          echo "author=$PR_AUTHOR" >> $GITHUB_OUTPUT
+          
+          git checkout ${{ github.base_ref }}
+          git pull origin ${{ github.base_ref }}
+          
+          FILE=$(git diff --name-only origin/${{ github.base_ref }} origin/${{ github.head_ref }} | grep '\.toml$' | head -1)
+          
+          if [ -n "$FILE" ]; then
+            PREV_CONTENT=$(git show origin/${{ github.base_ref }}:"$FILE" 2>/dev/null || echo "")
+            NEW_CONTENT=$(git show origin/${{ github.head_ref }}:"$FILE" 2>/dev/null || echo "")
+            
+            if [ -z "$NEW_CONTENT" ] && [ -n "$PREV_CONTENT" ]; then
+              echo "operation=delete" >> $GITHUB_OUTPUT
+              echo "changed_file=$FILE" >> $GITHUB_OUTPUT
+            elif [ -n "$PREV_CONTENT" ] && [ -n "$NEW_CONTENT" ]; then
+              PREV_COMMIT=$(echo "$PREV_CONTENT" | grep '^commit = ' | cut -d'"' -f2)
+              NEW_COMMIT=$(echo "$NEW_CONTENT" | grep '^commit = ' | cut -d'"' -f2)
+              
+              if [ "$PREV_COMMIT" != "$NEW_COMMIT" ]; then
+                echo "operation=version_change" >> $GITHUB_OUTPUT
+                echo "changed_file=$FILE" >> $GITHUB_OUTPUT
+                
+                LAST_AUTHOR=$(git log -1 --format='%an' -- "$FILE" 2>/dev/null || echo "")
+                LAST_AUTHOR_EMAIL=$(git log -1 --format='%ae' -- "$FILE" 2>/dev/null || echo "")
+                echo "last_author=$LAST_AUTHOR" >> $GITHUB_OUTPUT
+                echo "last_author_email=$LAST_AUTHOR_EMAIL" >> $GITHUB_OUTPUT
+              fi
+            fi
+          fi
+
+      - name: Verify author identity
+        if: steps.pr_info.outputs.operation == 'version_change' || steps.pr_info.outputs.operation == 'delete'
+        run: |
+          PR_AUTHOR="${{ steps.pr_info.outputs.author }}"
+          LAST_AUTHOR="${{ steps.pr_info.outputs.last_author }}"
+          LAST_AUTHOR_EMAIL="${{ steps.pr_info.outputs.last_author_email }}"
+          
+          if [[ "$LAST_AUTHOR_EMAIL" == *"@users.noreply.github.com" ]]; then
+            LAST_AUTHOR_USERNAME=$(echo "$LAST_AUTHOR_EMAIL" | sed 's/.*+\(.*\)@users.noreply.github.com/\1/')
+          else
+            LAST_AUTHOR_USERNAME="$LAST_AUTHOR"
+          fi
+          
+          if [ "$PR_AUTHOR" != "$LAST_AUTHOR_USERNAME" ] && [ "$PR_AUTHOR" != "$LAST_AUTHOR" ]; then
+            echo "Error: PR author $PR_AUTHOR does not match last modifier $LAST_AUTHOR_USERNAME"
+            exit 1
+          fi
+
       - name: Check and merge
         run: |
           git checkout ${{ github.base_ref }}
           git pull origin ${{ github.base_ref }}
           
           git fetch origin ${{ github.head_ref }}
-          
-          git diff --name-only origin/${{ github.base_ref }} origin/${{ github.head_ref }}
           
           FILE=$(git diff --name-only origin/${{ github.base_ref }} origin/${{ github.head_ref }} | grep '\.toml$' | head -1)
           
@@ -32,14 +88,17 @@ jobs:
             exit 0
           fi
           
-          echo "Found file: $FILE"
+          if [ ! -f "$FILE" ] && [ -f "../$FILE" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "bot@github.com"
+            git merge --ff-only origin/${{ github.head_ref }} && git push origin ${{ github.base_ref }}
+            exit 0
+          fi
+          
           cat "$FILE"
           
           GIT_URL=$(grep '^git = ' "$FILE" | cut -d'"' -f2)
           COMMIT=$(grep '^commit = ' "$FILE" | cut -d'"' -f2)
-          
-          echo "Git URL: $GIT_URL"
-          echo "Commit: $COMMIT"
           
           git clone "$GIT_URL" /tmp/pkg
           cd /tmp/pkg
@@ -54,4 +113,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "bot@github.com"
           
-          git merge --ff-only origin/${{ github.head_ref }} && git push origin ${{ github.base_ref }}
+          PR_AUTHOR="${{ steps.pr_info.outputs.author }}"
+          git merge --ff-only origin/${{ github.head_ref }} -m "Merge PR #${{ github.event.pull_request.number }} from @$PR_AUTHOR" && git push origin ${{ github.base_ref }}
