@@ -22,19 +22,31 @@ jobs:
           git pull origin ${{ github.base_ref }}
           
           git fetch origin ${{ github.head_ref }}
-          FILE=$(git diff --name-only origin/${{ github.base_ref }} origin/${{ github.head_ref }} | grep 'packages/.*\.toml' | head -1)
-          [ -z "$FILE" ] && exit 0
+          
+          git diff --name-only origin/${{ github.base_ref }} origin/${{ github.head_ref }}
+          
+          FILE=$(git diff --name-only origin/${{ github.base_ref }} origin/${{ github.head_ref }} | grep '\.toml$' | head -1)
+          
+          if [ -z "$FILE" ]; then
+            echo "No toml file found"
+            exit 0
+          fi
+          
+          echo "Found file: $FILE"
+          cat "$FILE"
           
           GIT_URL=$(grep '^git = ' "$FILE" | cut -d'"' -f2)
           COMMIT=$(grep '^commit = ' "$FILE" | cut -d'"' -f2)
           
-          git clone --depth 1 "$GIT_URL" /tmp/pkg
+          echo "Git URL: $GIT_URL"
+          echo "Commit: $COMMIT"
+          
+          git clone "$GIT_URL" /tmp/pkg
           cd /tmp/pkg
-          git fetch --depth 1 origin "$COMMIT"
           git checkout "$COMMIT"
           cd -
           
-          if ! find /tmp/pkg -name "*.cpp" -o -name "*.cc" | grep -q .; then
+          if ! find /tmp/pkg -name "*.cpp" -o -name "*.cc" | head -1 | grep -q .; then
             echo "No C++ files found"
             exit 1
           fi
@@ -42,8 +54,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "bot@github.com"
           
-          if git merge --ff-only origin/${{ github.head_ref }}; then
-            git push origin ${{ github.base_ref }}
-          else
-            exit 1
-          fi
+          git merge --ff-only origin/${{ github.head_ref }} && git push origin ${{ github.base_ref }}
