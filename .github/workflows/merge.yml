@@ -88,19 +88,17 @@ jobs:
             exit 0
           fi
           
-          if [ ! -f "$FILE" ]; then
-            if [ -n "$(git show origin/${{ github.head_ref }}:"$FILE" 2>/dev/null)" ]; then
-              git show origin/${{ github.head_ref }}:"$FILE" > "$FILE"
-            else
-              echo "File $FILE not found"
-              exit 1
-            fi
+          FILE_CONTENT=$(git show origin/${{ github.head_ref }}:"$FILE" 2>/dev/null)
+          
+          if [ -z "$FILE_CONTENT" ]; then
+            echo "Cannot read file $FILE from PR branch"
+            exit 1
           fi
           
-          cat "$FILE"
+          echo "$FILE_CONTENT"
           
-          GIT_URL=$(grep '^git = ' "$FILE" | cut -d'"' -f2)
-          COMMIT=$(grep '^commit = ' "$FILE" | cut -d'"' -f2)
+          GIT_URL=$(echo "$FILE_CONTENT" | grep '^git = ' | cut -d'"' -f2)
+          COMMIT=$(echo "$FILE_CONTENT" | grep '^commit = ' | cut -d'"' -f2)
           
           if [ -z "$GIT_URL" ] || [ -z "$COMMIT" ]; then
             echo "Missing git URL or commit in TOML file"
