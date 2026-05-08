@@ -88,17 +88,24 @@ jobs:
             exit 0
           fi
           
-          if [ ! -f "$FILE" ] && [ -f "../$FILE" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "bot@github.com"
-            git merge --ff-only origin/${{ github.head_ref }} && git push origin ${{ github.base_ref }}
-            exit 0
+          if [ ! -f "$FILE" ]; then
+            if [ -n "$(git show origin/${{ github.head_ref }}:"$FILE" 2>/dev/null)" ]; then
+              git show origin/${{ github.head_ref }}:"$FILE" > "$FILE"
+            else
+              echo "File $FILE not found"
+              exit 1
+            fi
           fi
           
           cat "$FILE"
           
           GIT_URL=$(grep '^git = ' "$FILE" | cut -d'"' -f2)
           COMMIT=$(grep '^commit = ' "$FILE" | cut -d'"' -f2)
+          
+          if [ -z "$GIT_URL" ] || [ -z "$COMMIT" ]; then
+            echo "Missing git URL or commit in TOML file"
+            exit 1
+          fi
           
           git clone "$GIT_URL" /tmp/pkg
           cd /tmp/pkg
