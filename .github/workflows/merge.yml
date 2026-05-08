@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          
+
       - name: Check and merge
         run: |
           git checkout ${{ github.base_ref }}
@@ -28,7 +28,12 @@ jobs:
           GIT_URL=$(grep '^git = ' "$FILE" | cut -d'"' -f2)
           COMMIT=$(grep '^commit = ' "$FILE" | cut -d'"' -f2)
           
-          git clone --depth 1 "$GIT_URL" --branch "$COMMIT" /tmp/pkg || exit 1
+          git clone --depth 1 "$GIT_URL" /tmp/pkg
+          cd /tmp/pkg
+          git fetch --depth 1 origin "$COMMIT"
+          git checkout "$COMMIT"
+          cd -
+          
           if ! find /tmp/pkg -name "*.cpp" -o -name "*.cc" | grep -q .; then
             echo "No C++ files found"
             exit 1
@@ -39,8 +44,6 @@ jobs:
           
           if git merge --ff-only origin/${{ github.head_ref }}; then
             git push origin ${{ github.base_ref }}
-            echo "Successfully merged PR #${{ github.event.pull_request.number }}"
           else
-            echo "Fast-forward merge failed"
             exit 1
           fi
