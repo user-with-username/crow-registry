@@ -1,0 +1,79 @@
+[versions."3.3.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "6e7deb809120881634b3ca895e66b2a946084f34"
+
+[versions."3.1.1"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "83a82e3eb512b18d4149cabb7eb43c7e8bc081af"
+
+[versions."3.2.1"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "8085ab8721090a447cf98bb802d1406ad7afe420"
+
+[versions."4.0.2"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "3bdbf0d2ee75d46d71afa691a594777d89a22cf7"
+
+[versions."4.1.3"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "7e56a0807423699e041cb8d09407e3cf79ce164b"
+
+[versions."3.2.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "29b9505cb76710802e130d5b8403ec1b40de1c8d"
+
+[versions."4.1.1"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "63511f29dbac8a1200a7653e561055e82e43d391"
+
+[versions."4.0.1"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "0b8d6a6614b413f298131993b36bcc263b9de2f1"
+
+[versions."5.0.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "8824c626b4c05698ec94ed77ababd64457f5574e"
+
+[versions."3.0.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "bd18a36daedbb631fee352bbeeaa8ec1a55a24b8"
+
+[versions."4.0.3"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "53bfbba863cabf027446f6f343b95885989013b8"
+
+[versions."4.1.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "b350a00f6bf2507702eaafcf92659e634f642644"
+
+[versions."6.0.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "1edfba0cd24378bba74578f18ca96e3809ae1664"
+
+[versions."7.0.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "919908742b4fdbc575e77fe1a8657e70c9573c44"
+
+[versions."6.1.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "8c602e8579c7e7d65d6f9c6703c9699db3fb0488"
+
+[versions."3.0.1"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "2c4f2b890ef1546fc022d270d11e657f6fc8022f"
+
+[versions."4.0.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "b065560404a30fa097285c7c35c577a75168a844"
+
+[versions."3.1.0"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "b6803a5fecbe321458faafd6a079dac466614ff9"
+
+[versions."6.1.1"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "44c0f705c9a60217d7e07de844fb13ce4c1c1e6e"
+
+[versions."4.1.2"]
+git = "https://github.com/msgpack/msgpack-c"
+commit = "fb64ea0b68cda185f1e45b87713ba9cd7be3e394"

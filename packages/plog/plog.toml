@@ -1,0 +1,79 @@
+[versions."1.1.10"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "e21baecd4753f14da64ede979c5a19302618b752"
+
+[versions."1.1.2"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "684274c6bfb86d0200e53139bd20fb885d6baefa"
+
+[versions."1.1.1"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "d2c1afcfea79aead1b14f29f575ed546fcd4f411"
+
+[versions."1.0.0"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "3f8119956961099b26f5441ab6cb99e60755b9ed"
+
+[versions."1.1.8"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "89ac49396ae6978a056034d1e34bb170bfd3de33"
+
+[versions."1.0.1"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "296abb2083bd5d210ad437c7d3189b10e3bdbb4f"
+
+[versions."1.1.7"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "db187beabc6bb0c7fb6a743bdc4c133d295c3fb3"
+
+[versions."0.5.8"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "c99fa4de16fc5ebe3121565da085b19b4f51cfe7"
+
+[versions."1.1.5"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "f4c22b03d5d3aa753cca8e716636ac4eb29b0917"
+
+[versions."1.0.2"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "df517c2d25113eaba3c4f40749f4dc80530c6534"
+
+[versions."1.1.6"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "6ef268d72b7f107de5979fd517a72619659dcd55"
+
+[versions."1.1.11"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "e5c033e317a01b2703d13aab42288d09b2efdafc"
+
+[versions."1.1.4"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "dcbcca75faccfbde3ba4aae85a185d042af5a185"
+
+[versions."0.6.2"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "5800b47f15c695714e185edb77358fea95fce4ee"
+
+[versions."1.1.3"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "29b3f890b9823cd2a7c15fcb5be7601aef91c48b"
+
+[versions."1.1.0"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "41e300110575df470cf211458870b3541272bad8"
+
+[versions."0.5.9"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "907d9622476e6c12beb31a8ebf35c6b7fdb1ad40"
+
+[versions."1.1.9"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "f47149410a4c927643148b96799f28b2d80d451b"
+
+[versions."0.6.1"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "dc18015851d396b29279181cee9be651dd45b8ab"
+
+[versions."0.6.0"]
+git = "https://github.com/SergiusTheBest/plog"
+commit = "aef07443bccc2472c450376dfaf52796d48d36d7"

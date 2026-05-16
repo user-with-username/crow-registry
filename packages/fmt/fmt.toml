@@ -1,0 +1,79 @@
+[versions."11.0.2"]
+git = "https://github.com/fmtlib/fmt"
+commit = "0c9fce2ffefecfdce794e1859584e25877b7b592"
+
+[versions."0.11.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "45397e5046fd866489551827c63ea4ef1280e1c3"
+
+[versions."11.0.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "0041a40c1350ba702d475b9c4ad62da77caea164"
+
+[versions."10.1.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "e57ca2e3685b160617d3d95fcd9e789c4e06ca88"
+
+[versions."12.1.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "407c905e45ad75fc29bf0f9bb7c5c2fd3475976f"
+
+[versions."10.1.1"]
+git = "https://github.com/fmtlib/fmt"
+commit = "f5e54359df4c26b6230fc61d38aa294581393084"
+
+[versions."10.2.1"]
+git = "https://github.com/fmtlib/fmt"
+commit = "e69e5f977d458f2650bb346dadf2ad30c5320281"
+
+[versions."11.1.2"]
+git = "https://github.com/fmtlib/fmt"
+commit = "8303d140a1a11f19b982a9f664bbe59a1ccda3f4"
+
+[versions."11.2.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "40626af88bd7df9a5fb80be7b25ac85b122d6c21"
+
+[versions."12.0.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "e424e3f2e607da02742f73db84873b8084fc714c"
+
+[versions."9.0.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "c4ee726532178e556d923372f29163bd206d7732"
+
+[versions."9.1.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "a33701196adfad74917046096bf5a2aa0ab0bb50"
+
+[versions."10.0.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "a0b8a92e3d1532361c2f7feb63babc5c18d00ef2"
+
+[versions."11.1.3"]
+git = "https://github.com/fmtlib/fmt"
+commit = "9cf9f38eded63e5e0fb95cd536ba51be601d7fa2"
+
+[versions."11.0.1"]
+git = "https://github.com/fmtlib/fmt"
+commit = "b50e685db996c167e6c831dcef582aba6e14276a"
+
+[versions."11.1.4"]
+git = "https://github.com/fmtlib/fmt"
+commit = "123913715afeb8a437e6388b4473fcc4753e1c9a"
+
+[versions."8.1.1"]
+git = "https://github.com/fmtlib/fmt"
+commit = "b6f4ceaed0a0a24ccf575fab6c56dd50ccf6f1a9"
+
+[versions."11.1.1"]
+git = "https://github.com/fmtlib/fmt"
+commit = "e3ddede6c4ee818825c4e5a6dfa1d384860c27d9"
+
+[versions."10.2.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "67c0c0c09cf74d407d71a29c194761981614df3e"
+
+[versions."11.1.0"]
+git = "https://github.com/fmtlib/fmt"
+commit = "0e8aad961d66904cfda8d7cc894f6f6eee2d9f30"

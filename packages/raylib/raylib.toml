@@ -1,0 +1,79 @@
+[versions."2.0.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "639ce09c9d6cbddfb1be9af0343ba00acb023ccb"
+
+[versions."4.6"]
+git = "https://github.com/raysan5/raylib"
+commit = "1327b570e3aac6111ebdb3b233b9c60cdc12ee9f"
+
+[versions."4.5.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "fec96137e8d10ee6c88914fbe5e5429c13ee1dac"
+
+[versions."1.6.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "17f09cb03484a408cdd50a3d2e4d6604bb1f4c70"
+
+[versions."4.0.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "0851960397f02a477d80eda2239f90fae14dec64"
+
+[versions."4.2.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "bf2ad9df5fdcaa385b2a7f66fd85632eeebbadaa"
+
+[versions."1.5.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "ab0d19f356dc6aadff11ab4034880c8759315000"
+
+[versions."3.0.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "7ef114d1da2c34a70bba5442497103441647d8f3"
+
+[versions."1.7.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "910b4b5d53d9a904070807de5e8a66edadd939e3"
+
+[versions."1.8.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "8380c488be90ed0c29a6446b490bfaca6574436e"
+
+[versions."1.9.7"]
+git = "https://github.com/raysan5/raylib"
+commit = "cc3b8645df23ed9aeb9d6efc806ab91170a29a89"
+
+[versions."5.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "ae50bfa2cc569c0f8d5bc4315d39db64005b1b08"
+
+[versions."6.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "dbc56a87da87d973a9c5baa4e7438a9d20121d28"
+
+[versions."3.5.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "e25e380e80a117f2404d65b37700fb620dc1f990"
+
+[versions."2.5.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "a9f33c9a8962735fed5dd1857709d159bc4056fc"
+
+[versions."1.9.4"]
+git = "https://github.com/raysan5/raylib"
+commit = "b908a4078a2f318e6bc9cbdcb7045d1ccab0c6a4"
+
+[versions."2.6.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "6f3c99a295533e41de3049db5e683d15fd5c6e1a"
+
+[versions."3.7.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "b6c8d343dca2ef19c23c50975328a028124cf3cb"
+
+[versions."1.4.0"]
+git = "https://github.com/raysan5/raylib"
+commit = "75a73d94171051037fcf670852877977d9251520"
+
+[versions."5.5"]
+git = "https://github.com/raysan5/raylib"
+commit = "c1ab645ca298a2801097931d1079b10ff7eb9df8"

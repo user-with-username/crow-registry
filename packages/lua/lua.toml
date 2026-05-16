@@ -1,0 +1,79 @@
+[versions."5.3.0"]
+git = "https://github.com/lua/lua"
+commit = "3c55790ebee7148281cd00f44aa293e456b4da6d"
+
+[versions."5.3.6"]
+git = "https://github.com/lua/lua"
+commit = "75ea9ccbea7c4886f30da147fb67b693b2624c26"
+
+[versions."5.3.5"]
+git = "https://github.com/lua/lua"
+commit = "063d4e4543088e7a21965bda8ee5a0f952a9029e"
+
+[versions."5.3.4"]
+git = "https://github.com/lua/lua"
+commit = "e354c6355e7f48e087678ec49e340ca0696725b1"
+
+[versions."5.3.2"]
+git = "https://github.com/lua/lua"
+commit = "c25d59a6bdbc6f587310159a1975b399ad8dd079"
+
+[versions."5.4.1"]
+git = "https://github.com/lua/lua"
+commit = "9f791535cde1539338f6ba1b9154006595d97fe7"
+
+[versions."5.3"]
+git = "https://github.com/lua/lua"
+commit = "fba9050d3d6aa53853f89317c8f040f90a4c61db"
+
+[versions."5.4.4"]
+git = "https://github.com/lua/lua"
+commit = "5d708c3f9cae12820e415d4f89c9eacbe2ab964b"
+
+[versions."5.3.3"]
+git = "https://github.com/lua/lua"
+commit = "aa66ca76ce10db054e34de8a19a48d0beb5eb7a6"
+
+[versions."5.4.5"]
+git = "https://github.com/lua/lua"
+commit = "e15f1f2bb7a38a3c94519294d031e48508d65006"
+
+[versions."5.4.6"]
+git = "https://github.com/lua/lua"
+commit = "6443185167c77adcc8552a3fee7edab7895db1a9"
+
+[versions."5.5"]
+git = "https://github.com/lua/lua"
+commit = "cfce6f4b20afe85ede2182b3df3ab2bfcdb0e692"
+
+[versions."5.4.7"]
+git = "https://github.com/lua/lua"
+commit = "1ab3208a1fceb12fca8f24ba57d6e13c5bff15e3"
+
+[versions."5.4.2"]
+git = "https://github.com/lua/lua"
+commit = "9d067ab73b6befa0a5418f1df35c711f6c6918b3"
+
+[versions."5.4.3"]
+git = "https://github.com/lua/lua"
+commit = "eadd8c7178c79c814ecca9652973a9b9dd4cc71b"
+
+[versions."5.5.0"]
+git = "https://github.com/lua/lua"
+commit = "a5522f06d2679b8f18534fd6a9968f7eb539dc31"
+
+[versions."5.4.0"]
+git = "https://github.com/lua/lua"
+commit = "c33b1728aeb7dfeec4013562660e07d32697aa6b"
+
+[versions."5.4.8"]
+git = "https://github.com/lua/lua"
+commit = "6e22fedb74cf0c9b6656e9fce8b7331db847c605"
+
+[versions."5.3.1"]
+git = "https://github.com/lua/lua"
+commit = "a1415c0d72053cf6f6f7e68033fa3b7f999ad960"
+
+[versions."5.4"]
+git = "https://github.com/lua/lua"
+commit = "f39e8c06d61078467b3f32499728ed4e9b7b06bc"

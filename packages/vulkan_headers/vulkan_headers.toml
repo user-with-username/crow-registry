@@ -1,0 +1,79 @@
+[versions."1.3.296.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "29f979ee5aa58b7b005f805ea8df7a855c39ff37"
+
+[versions."1.4.304.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "d4a196d8c84e032d27f999adcea3075517c1c97f"
+
+[versions."1.0.11"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "39a669f332985de4c4d8215f7c0d19d5fb90f5e1"
+
+[versions."1.4.304.1"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "d4a196d8c84e032d27f999adcea3075517c1c97f"
+
+[versions."1.3.290.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "b379292b2ab6df5771ba9870d53cf8b2c9295daf"
+
+[versions."1.4.321.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "2cd90f9d20df57eac214c148f3aed885372ddcfe"
+
+[versions."1.4.328.1"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "19725e4d48082fe78e26622b15d3080ccd54112b"
+
+[versions."1.4.309.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "952f776f6573aafbb62ea717d871cd1d6816c387"
+
+[versions."1.0.10"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "87e53f6cc7b7c57e778d42df09df3c2fe80919b3"
+
+[versions."1.4.328.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "a4f8ada9f4f97c45b8c89c57997be9cebaae65d2"
+
+[versions."1.4.341.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "b5c8f996196ba4aa6d8f97e52b5d3b6e70f7e4e2"
+
+[versions."1.3.268.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "7b3466a1f47a9251ac1113efbe022ff016e2f95b"
+
+[versions."1.4.335.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "2fa203425eb4af9dfc6b03f97ef72b0b5bcb8350"
+
+[versions."1.0.9"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "ff9cf1f1f21186fd984e20e78ecce23e906a7f53"
+
+[versions."1.4.313.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "409c16be502e39fe70dd6fe2d9ad4842ef2c9a53"
+
+[versions."1.4.350"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "8864cdc896bbc2a9b6eb36b3218fc9ef57908d77"
+
+[versions."1.3.280.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "577baa05033cf1d9236b3d078ca4b3269ed87a2b"
+
+[versions."1.0.12"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "dd9e112afaf5b4c0496a6f0ce8024fd78d41fe10"
+
+[versions."1.3.283.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "eaa319dade959cb61ed2229c8ea42e307cc8f8b3"
+
+[versions."1.3.275.0"]
+git = "https://github.com/KhronosGroup/Vulkan-Headers"
+commit = "217e93c664ec6704ec2d8c36fa116c1a4a1e2d40"

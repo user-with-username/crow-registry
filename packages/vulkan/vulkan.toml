@@ -1,0 +1,75 @@
+[versions."1.4.329"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "767fce85b7073ca3017f34ae242e01cfbdb7cf3d"
+
+[versions."1.4.331"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "95d69172ba20a54b232b4e5be8eb1a9185c7ecac"
+
+[versions."1.4.333"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "bdda01dc499bfb40a2ad470fafbe05256110c6d8"
+
+[versions."1.4.336"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "efdde0a3faa766f3ed1ab5b2e7d8b353b5886893"
+
+[versions."1.4.338"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "445938682e57db84cfd77f08b339d7b0b3b478dc"
+
+[versions."1.4.343"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "f54b76ef3ff65a39bc560e95f9113d90d2edb785"
+
+[versions."1.4.337"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "6691164392ce0c2ad90782743191e9370d7b515b"
+
+[versions."1.4.349"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "e83fe4475286102ad1500ba2e148604846e828c2"
+
+[versions."1.4.341"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "c27a9c9a96d50afe4a0fb88e7aa518c93817ab50"
+
+[versions."1.4.332"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "cda66a2513b1a6c2fcff949bca0e1f77f4ec2d21"
+
+[versions."1.4.344"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "9ac248f0fe1d455a2e85f293a3cc456755ec9faf"
+
+[versions."1.4.346"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "24cdb5b0c1bdbba732060d4c70e48bd25dcf9d30"
+
+[versions."1.4.335"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "9d55db6621613adf9ccea21dbc853fbd27ea2924"
+
+[versions."1.4.339"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "041b8660aa59edf5d1efe0de8d814190af166a8f"
+
+[versions."1.4.347"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "e851e4c893bdca6dd4621f47bd936c93c52cce25"
+
+[versions."1.4.348"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "60aed23277b4e0375b8608f0596cf4a406cb8b7a"
+
+[versions."1.4.330"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "0a7333161db0821452ad950760e48abc35ea0fa3"
+
+[versions."1.4.350"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "0aa62b5acbb9f2bf02209e09fbe0b06fabf0c29a"
+
+[versions."1.4.342"]
+git = "https://github.com/KhronosGroup/Vulkan-Hpp"
+commit = "f6b705ccac6ce2dc08030a75c2a3a83b6beba9ed"

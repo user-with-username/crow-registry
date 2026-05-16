@@ -1,0 +1,83 @@
+[versions."1.5.7"]
+git = "https://github.com/facebook/zstd"
+commit = "5d9fb4785030731a155a8abe159e10965d824e4b"
+
+[versions."0.2.2"]
+git = "https://github.com/facebook/zstd"
+commit = "d1661056e4b135d28789b19480b7f69dafc62625"
+
+[versions."0.3.5"]
+git = "https://github.com/facebook/zstd"
+commit = "42e9bed1ea7346d3f7cc5a8e75f3c8025c6cb47e"
+
+[versions."0.3.2"]
+git = "https://github.com/facebook/zstd"
+commit = "43194f918d632d30d61565af882406efe3001488"
+
+[versions."0.3.6"]
+git = "https://github.com/facebook/zstd"
+commit = "dc1af5f7b88350fd5f68adf0283f80c8a7a3fe0d"
+
+[versions."1.5.2"]
+git = "https://github.com/facebook/zstd"
+commit = "8e43f53c93490b078cce2e2e0ce8887c192500aa"
+
+[versions."0.3.1"]
+git = "https://github.com/facebook/zstd"
+commit = "da8557e6dcd1e5b83cbae448154f0f7b8ca1a101"
+
+[versions."1.5.4"]
+git = "https://github.com/facebook/zstd"
+commit = "945f27758c0fd67b636103a38dbf050266c6b90a"
+
+[versions."0.1.3"]
+git = "https://github.com/facebook/zstd"
+commit = "b7d9065a9a3c2697c9b2cab86e757d0d847e43ed"
+
+[versions."0.4.1"]
+git = "https://github.com/facebook/zstd"
+commit = "a2e5f7473da6647fe802a8ef0e0ba43e1d5b0ce6"
+
+[versions."0.2.0"]
+git = "https://github.com/facebook/zstd"
+commit = "9de6281f41f9ec25ef48814ae3349a8c4908378f"
+
+[versions."0.3.4"]
+git = "https://github.com/facebook/zstd"
+commit = "863ff3be4da7b1119c1b5bde293e4762cef2fbe5"
+
+[versions."1.5.7-kernel"]
+git = "https://github.com/facebook/zstd"
+commit = "5d9fb4785030731a155a8abe159e10965d824e4b"
+
+[versions."0.1.2"]
+git = "https://github.com/facebook/zstd"
+commit = "9c57b424d6f24629de7c7249e4e847900846887b"
+
+[versions."0.4.0"]
+git = "https://github.com/facebook/zstd"
+commit = "e07e66cc3a48c1b28b13c69be5b13fd6d85210e0"
+
+[versions."0.2.1"]
+git = "https://github.com/facebook/zstd"
+commit = "9e618350d4d574d143a4a6d6ff4273c6fedc299d"
+
+[versions."0.3.3"]
+git = "https://github.com/facebook/zstd"
+commit = "9876e1e1f59dd79a70eeaa258f80281acee42e74"
+
+[versions."0.4.2"]
+git = "https://github.com/facebook/zstd"
+commit = "a174fb1b41cded5a91452d299ac2905053cc5442"
+
+[versions."1.5.5"]
+git = "https://github.com/facebook/zstd"
+commit = "3ff79dbe942dcaaac464bcd57ffbd3123e585248"
+
+[versions."1.5.6"]
+git = "https://github.com/facebook/zstd"
+commit = "794ea1b0afca0f020f4e57b6732332231fb23c70"
+
+[versions."0.3.0"]
+git = "https://github.com/facebook/zstd"
+commit = "fdc4a01fb650b287aee059bfc183b9fbfae0633a"

@@ -1,0 +1,79 @@
+[versions."3.3.5"]
+git = "https://github.com/glfw/glfw"
+commit = "d3b73abba0cab8cbb2a638151477f54d8502a07e"
+
+[versions."3.1"]
+git = "https://github.com/glfw/glfw"
+commit = "4188c263e31ec3d5da99a77d939ab56bc199fda6"
+
+[versions."3.3.8"]
+git = "https://github.com/glfw/glfw"
+commit = "7482de6071d21db77a7236155da44c172a7f6c9e"
+
+[versions."3.3.2"]
+git = "https://github.com/glfw/glfw"
+commit = "0a49ef0a00baa3ab520ddc452f0e3b1e099c5589"
+
+[versions."3.3.9"]
+git = "https://github.com/glfw/glfw"
+commit = "e2c92645460f680fd272fd2eed591efb2be7dc31"
+
+[versions."3.3.6"]
+git = "https://github.com/glfw/glfw"
+commit = "7d5a16ce714f0b5f4efa3262de22e4d948851525"
+
+[versions."3.4"]
+git = "https://github.com/glfw/glfw"
+commit = "7b6aead9fb88b3623e3b3725ebb42670cbe4c579"
+
+[versions."3.3.4"]
+git = "https://github.com/glfw/glfw"
+commit = "814b7929c5add4b0541ccad26fb81f28b71dc4d8"
+
+[versions."3.1.2"]
+git = "https://github.com/glfw/glfw"
+commit = "30306e54705c3adae9fe082c816a3be71963485c"
+
+[versions."3.3"]
+git = "https://github.com/glfw/glfw"
+commit = "b0796109629931b6fa6e449c15a177845256a407"
+
+[versions."3.0.4"]
+git = "https://github.com/glfw/glfw"
+commit = "eab31f228fd1872753c55fb438e3d88e51c0e9b2"
+
+[versions."3.3.10"]
+git = "https://github.com/glfw/glfw"
+commit = "dc46d3f8129712e42856c20e99a604a3b08ad581"
+
+[versions."3.0.3"]
+git = "https://github.com/glfw/glfw"
+commit = "fd4ea8bc254d76eabe05c5380f419400cb6936a0"
+
+[versions."3.0.2"]
+git = "https://github.com/glfw/glfw"
+commit = "58aef89521f22b8aa389b43037b60b44e959471c"
+
+[versions."3.1.1"]
+git = "https://github.com/glfw/glfw"
+commit = "29b40112c234c3021648ea42a5e74cc122ba08b4"
+
+[versions."3.2"]
+git = "https://github.com/glfw/glfw"
+commit = "f6ec835599123c3c970d34534ed7ddc69a1fc6af"
+
+[versions."3.3.7"]
+git = "https://github.com/glfw/glfw"
+commit = "45ce5ddd197d5c58f50fdd3296a5131c894e5527"
+
+[versions."3.3.1"]
+git = "https://github.com/glfw/glfw"
+commit = "ecda86fa4f89ecdd364e5a1a22645030fe0ced6e"
+
+[versions."3.3.3"]
+git = "https://github.com/glfw/glfw"
+commit = "901d30b973c536f26b74bca1134c5892d54b251d"
+
+[versions."3.2.1"]
+git = "https://github.com/glfw/glfw"
+commit = "999f3556fdd80983b10051746264489f2cb1ef16"

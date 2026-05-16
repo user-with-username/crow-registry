@@ -1,0 +1,79 @@
+[versions."4.3.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "499be3c177bcf9b42848d5d9567153e4edfcbc8a"
+
+[versions."4.0.2"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "fc493afb4e0fa73a15e07bc621901a39109fda52"
+
+[versions."3.2.1"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "b1827e6fca5e0f26cc486390fc3672717c4d52a7"
+
+[versions."3.6.1"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "5e3f8f910535a9b6670f1f86be2d8c03801899d2"
+
+[versions."3.8.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "8ed1a1d7e44fc5f47009a2a9eb4fcc796aa2adbd"
+
+[versions."3.8.1"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "d4eb5f3c9d8557b3820c80d55c41068839341b27"
+
+[versions."3.3.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "aa8d574dfe8f798a814f22c459b1549d86576e1f"
+
+[versions."3.7.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "647381020ef04b5d41d540ec489eba45e82d90a7"
+
+[versions."3.4.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "31826b55ce7bbd5c1c4a2433a4f26b69f70a081c"
+
+[versions."3.3.1"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "ac1130f9f440ce88c21a2b43b6aaf26bdf6fe7a3"
+
+[versions."3.5.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "a344668fa293ce371bec6112c4e6979a7dcad042"
+
+[versions."4.4.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "be08ba2be2a964edcdb3d3e3ea8d100abc26f286"
+
+[versions."4.1.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "f33ca743fb105bf54293cc822f56cf2794d15bf2"
+
+[versions."3.6.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "c037913b2c9385f70430a74381b1684a199a5e96"
+
+[versions."4.0.1"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "7c336a52a0100b24a57be811873db9b5fce9f45a"
+
+[versions."4.0.3"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "5ac47b8983ddc4845cb5c1bdb451f2d17600ccf0"
+
+[versions."4.2.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "cc0bee4fd46ea1f5db147d63ea545208cc9e8405"
+
+[versions."3.7.1"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "dcfe39a783a94e8d52c885e5883a6fbb21529019"
+
+[versions."4.0.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "4efae93585055948043f83c0ea5f03c658551a4c"
+
+[versions."3.2.0"]
+git = "https://github.com/ToruNiina/toml11"
+commit = "8567f09cbf36e60e1b1aefab7ef45d410e6b1198"

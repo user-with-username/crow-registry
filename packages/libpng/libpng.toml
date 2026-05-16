@@ -1,0 +1,83 @@
+[versions."1.7.0beta87"]
+git = "https://github.com/glennrp/libpng"
+commit = "8f4d83a8819330b1c7b32955c406183250f4756f"
+
+[versions."1.7.0beta85"]
+git = "https://github.com/glennrp/libpng"
+commit = "7ed5c08fad55143f1f4d73f1ae6b55613836e70b"
+
+[versions."1.7.0beta72"]
+git = "https://github.com/glennrp/libpng"
+commit = "bfd8446816f8b21aa55e1a10a06f4736edf72ca1"
+
+[versions."1.7.0beta83"]
+git = "https://github.com/glennrp/libpng"
+commit = "5096cac90ca4bce6900356e4a490513525d9e078"
+
+[versions."1.7.0beta81"]
+git = "https://github.com/glennrp/libpng"
+commit = "8592a855359a7c870f425b277be2a8ab30414d96"
+
+[versions."1.7.0beta76"]
+git = "https://github.com/glennrp/libpng"
+commit = "df4568f84b01e00ad63868ec4e44cc348e63771e"
+
+[versions."1.7.0beta86"]
+git = "https://github.com/glennrp/libpng"
+commit = "76a1f4bb3f9955fe7a3a44f7be19553d7313f4ff"
+
+[versions."1.7.0beta77"]
+git = "https://github.com/glennrp/libpng"
+commit = "e4fad63915fc014c2ef9e31f542a7a286d69b57c"
+
+[versions."1.7.0beta88"]
+git = "https://github.com/glennrp/libpng"
+commit = "1c2e35ab73ee031399c13082d0acd786e99f9a9e"
+
+[versions."1.7.0beta89"]
+git = "https://github.com/glennrp/libpng"
+commit = "ef5a5760d433574f5ee76df5263a9244a25acbe7"
+
+[versions."1.7.0beta73"]
+git = "https://github.com/glennrp/libpng"
+commit = "17bfbce61cdd0e815b17feb3f6248ea63e7a031c"
+
+[versions."1.7.0beta75"]
+git = "https://github.com/glennrp/libpng"
+commit = "4b1d9e8c2af290c32090f0eacb475b72a65066ae"
+
+[versions."1.7.0beta74"]
+git = "https://github.com/glennrp/libpng"
+commit = "5695e897fd5a0754c17f92361a9106666260ef1f"
+
+[versions."1.7.0beta82"]
+git = "https://github.com/glennrp/libpng"
+commit = "f7b1d9a1725c71fc75167c3cd8adc4a8dab2ac1c"
+
+[versions."1.7.0beta70"]
+git = "https://github.com/glennrp/libpng"
+commit = "94a5189b1cd9b5859bb51f9f3493eaf57e995cf3"
+
+[versions."1.7.0"]
+git = "https://github.com/glennrp/libpng"
+commit = "81d58f913e43dd79685110fe7ad6a19021e831c3"
+
+[versions."1.7.0beta71"]
+git = "https://github.com/glennrp/libpng"
+commit = "8ac1821831bc43a211029efe61d44055fa92d7a9"
+
+[versions."1.7.0beta78"]
+git = "https://github.com/glennrp/libpng"
+commit = "9a6922896dfdd6f3e64b3ede32819ce4597bec94"
+
+[versions."1.7.0beta79"]
+git = "https://github.com/glennrp/libpng"
+commit = "b6a1f48ab21db4529b2924fed56e8a58a3faf2c1"
+
+[versions."1.7.0beta80"]
+git = "https://github.com/glennrp/libpng"
+commit = "d23207b866e2c7f3e70acfd74a1bf036bc704860"
+
+[versions."1.7.0beta84"]
+git = "https://github.com/glennrp/libpng"
+commit = "6f9a39848e3140a6c41984e4acc23643f0f2022c"

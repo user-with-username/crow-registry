@@ -1,0 +1,79 @@
+[versions."3.2.3"]
+git = "https://github.com/ThePhD/sol2"
+commit = "c068aefbeddb3dd1f1fd38d42843ecb49a3b4cdb"
+
+[versions."3.2.1"]
+git = "https://github.com/ThePhD/sol2"
+commit = "874c8e5f09cb2fa73a0a1d6b56fb6691a3aa1144"
+
+[versions."2.20.1"]
+git = "https://github.com/ThePhD/sol2"
+commit = "daf9de3007f52b403e5f55038c2903b064da0c8f"
+
+[versions."3.0.0"]
+git = "https://github.com/ThePhD/sol2"
+commit = "04b36f1fc1a6b6790b27085256d4fa19a8c6affe"
+
+[versions."2.20.0"]
+git = "https://github.com/ThePhD/sol2"
+commit = "f8ee7abe527a9e8414fc4965e5cbd0f8395fbeae"
+
+[versions."3.0.2"]
+git = "https://github.com/ThePhD/sol2"
+commit = "5a4d7dca7f77e65aed15c0fb8f8acf1570677335"
+
+[versions."3.3.0"]
+git = "https://github.com/ThePhD/sol2"
+commit = "eba86625b707e3c8c99bbfc4624e51f42dc9e561"
+
+[versions."2.20.3"]
+git = "https://github.com/ThePhD/sol2"
+commit = "4480b7ef89305240d4a231bc1ebd86932d51585a"
+
+[versions."3.5.0"]
+git = "https://github.com/ThePhD/sol2"
+commit = "9190880c593dfb018ccf5cc9729ab87739709862"
+
+[versions."3.0.3"]
+git = "https://github.com/ThePhD/sol2"
+commit = "230928c0451544dbc97b2e0a007ca16c3566df66"
+
+[versions."3.3.1"]
+git = "https://github.com/ThePhD/sol2"
+commit = "dca62a0f02bb45f3de296de3ce00b1275eb34c25"
+
+[versions."2.20.6"]
+git = "https://github.com/ThePhD/sol2"
+commit = "902ceaf8a1d53ea1b70cf9f3f0302da87f5a7f8c"
+
+[versions."3.0.1"]
+git = "https://github.com/ThePhD/sol2"
+commit = "224017104a33730a31e94b94e6932e69ce6533b6"
+
+[versions."3.2.0"]
+git = "https://github.com/ThePhD/sol2"
+commit = "b0c74207d8d86b6d6b6137252bb6494f33947a25"
+
+[versions."2.20.4"]
+git = "https://github.com/ThePhD/sol2"
+commit = "7f1c2e3ecfc2b78e396c60e067f6486ae1df66c5"
+
+[versions."3.2.2"]
+git = "https://github.com/ThePhD/sol2"
+commit = "288f4f4e73f379cca56f8eb7840a449adac0acb9"
+
+[versions."2.20.5"]
+git = "https://github.com/ThePhD/sol2"
+commit = "93db30d200b592cee557ba231b053276a4e9c117"
+
+[versions."2.19.5"]
+git = "https://github.com/ThePhD/sol2"
+commit = "0fe9b160b7932a3cb7d7fb919d21995af06eff06"
+
+[versions."4.0.0"]
+git = "https://github.com/ThePhD/sol2"
+commit = "8618e39486dde855d671e1e7ecc3f50b43aee257"
+
+[versions."2.20.2"]
+git = "https://github.com/ThePhD/sol2"
+commit = "ac709111e81167f81b23fda9c7d9c6d3a70c2874"

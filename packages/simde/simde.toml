@@ -1,0 +1,83 @@
+[versions."0.7.4-rc4"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "accce4267e31499294b330dde78e359fffbbe9c6"
+
+[versions."0.6.0"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "236e90a9ff9d793e5aa055bdd2cbcd50a5c672c1"
+
+[versions."0.7.2"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "12069d720f43830ae9791e8b0f4c4fa3c88012a0"
+
+[versions."0.8.4-rc2"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "0efee69e5c16185cad512aefe503b812167e15fe"
+
+[versions."0.8.4"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "fb20a063012ad42123033804c508fb1cc03c7561"
+
+[versions."0.8.0-rc2"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "c200c16a49c3dd52007022ee2322b4fbef751496"
+
+[versions."0.8.0-rc1"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "e651ec360f22d5f9d7fb2c75c5025db614f78b8c"
+
+[versions."0.8.0"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "e651ec360f22d5f9d7fb2c75c5025db614f78b8c"
+
+[versions."0.8.2-rc1"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "71fd833d9666141edcd1d3c109a80e228303d8d7"
+
+[versions."0.8.4-rc1"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "fb20a063012ad42123033804c508fb1cc03c7561"
+
+[versions."0.8.4-rc3"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "c86a433df3086512b0b12240defa9d9ddcc9decf"
+
+[versions."0.7.0"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "76790a981bedab5dc1c8e393f8dccf0ea0e3917d"
+
+[versions."0.8.2"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "71fd833d9666141edcd1d3c109a80e228303d8d7"
+
+[versions."0.7.4-rc2"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "7e70d02dda84bdfb1e97777bdb9622f3f29682b4"
+
+[versions."0.5.0"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "4e00ba354f38e17518b16f3d5b1db9302e5b55f0"
+
+[versions."0.7.0-rc-1"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "7a2f50407590e39031b014fc0ff7db62f2feb7d7"
+
+[versions."0.7.6"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "fefc7857ff3e785b988a61a8f5f3c5bd5eb24342"
+
+[versions."0.7.4"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "9609eb2cf687984277185813fdfe81b8b200377b"
+
+[versions."0.7.0-rc2"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "76790a981bedab5dc1c8e393f8dccf0ea0e3917d"
+
+[versions."0.7.4-rc1"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "9609eb2cf687984277185813fdfe81b8b200377b"
+
+[versions."0.7.4-rc3"]
+git = "https://github.com/simd-everywhere/simde"
+commit = "f19193b3449c90f1a7267d8da4cad45dfc92339b"

@@ -1,0 +1,79 @@
+[versions."1.12.1"]
+git = "https://github.com/zeux/pugixml"
+commit = "dd50fa5b45ab8d58d6c27566c2eaf04a8b7e5841"
+
+[versions."1.13"]
+git = "https://github.com/zeux/pugixml"
+commit = "a0e064336317c9347a91224112af9933598714e9"
+
+[versions."1.9"]
+git = "https://github.com/zeux/pugixml"
+commit = "8436f2a69b9331f8e99a52772e93ba0dbb68dafe"
+
+[versions."1.10"]
+git = "https://github.com/zeux/pugixml"
+commit = "3c59df555b93a7650ae0056da34bacde93f4ef8f"
+
+[versions."1.6"]
+git = "https://github.com/zeux/pugixml"
+commit = "9b8553bf4bd6f66048f63942a9ff9742b0b23355"
+
+[versions."1.8.1"]
+git = "https://github.com/zeux/pugixml"
+commit = "d2deb420bc70369faa12785df2b5dd4d390e523d"
+
+[versions."1.11.1"]
+git = "https://github.com/zeux/pugixml"
+commit = "5a0fd5d85f2b31f44c8df84a4bc51f453cef57ac"
+
+[versions."1.11.4"]
+git = "https://github.com/zeux/pugixml"
+commit = "08b3433180727ea2f78fe02e860a08471db1e03c"
+
+[versions."1.4"]
+git = "https://github.com/zeux/pugixml"
+commit = "9f92eeba44cdf9df5faae0b03cc5bfb445793348"
+
+[versions."1.12"]
+git = "https://github.com/zeux/pugixml"
+commit = "314baf6605143f1e837209008f490e8559529e1c"
+
+[versions."1.14"]
+git = "https://github.com/zeux/pugixml"
+commit = "db78afc2b7d8f043b4bc6b185635d949ea2ed2a8"
+
+[versions."1.0"]
+git = "https://github.com/zeux/pugixml"
+commit = "a049c2db1d9741b3a162e4789f94d711858a0927"
+
+[versions."1.5"]
+git = "https://github.com/zeux/pugixml"
+commit = "ff16dbdd4c63fa46cc1f38eda4cfb66f38047657"
+
+[versions."1.8"]
+git = "https://github.com/zeux/pugixml"
+commit = "91bf70231aae8eddaccd5a6f5b0833712c471cb3"
+
+[versions."1.11.2"]
+git = "https://github.com/zeux/pugixml"
+commit = "907955280f11f659eb9354a07104359e591319c2"
+
+[versions."1.15"]
+git = "https://github.com/zeux/pugixml"
+commit = "ee86beb30e4973f5feffe3ce63bfa4fbadf72f38"
+
+[versions."1.7"]
+git = "https://github.com/zeux/pugixml"
+commit = "0c8024920f1d2237f771197cc4e56d20c2b8dfa5"
+
+[versions."1.11"]
+git = "https://github.com/zeux/pugixml"
+commit = "7a9da11d8b2b2f06c0904d397864f216bd7c1e14"
+
+[versions."1.2"]
+git = "https://github.com/zeux/pugixml"
+commit = "a9a537ad4024fe5011d38ce6ae2160081c361285"
+
+[versions."1.11.3"]
+git = "https://github.com/zeux/pugixml"
+commit = "0e3f1699ffab5f820060fe99c61f0f9495c0c5b6"

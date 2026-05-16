@@ -1,0 +1,47 @@
+[versions."2.1.0"]
+git = "https://github.com/HowardHinnant/date"
+commit = "2935f80109b8cfc15eb1243afe35f7ec3530f971"
+
+[versions."3.0.4"]
+git = "https://github.com/HowardHinnant/date"
+commit = "f94b8f36c6180be0021876c4a397a054fe50c6f2"
+
+[versions."2.4.1"]
+git = "https://github.com/HowardHinnant/date"
+commit = "e7e1482087f58913b80a20b04d5c58d9d6d90155"
+
+[versions."1.0.0"]
+git = "https://github.com/HowardHinnant/date"
+commit = "cb33a274710ae255b03c5d173016cb1f4ebf3737"
+
+[versions."2.0.0"]
+git = "https://github.com/HowardHinnant/date"
+commit = "f391001c10477bb80d5ce2a1d6c84ef202496569"
+
+[versions."3.0.0"]
+git = "https://github.com/HowardHinnant/date"
+commit = "cac99da8dc88be719a728dc1b597b0ac307c1800"
+
+[versions."3.0.3"]
+git = "https://github.com/HowardHinnant/date"
+commit = "5bdb7e6f31fac909c090a46dbd9fea27b6e609a4"
+
+[versions."2.3"]
+git = "https://github.com/HowardHinnant/date"
+commit = "4b73a42d025c9870f8deef3edb45b566ae64277a"
+
+[versions."2.2"]
+git = "https://github.com/HowardHinnant/date"
+commit = "a003ad28fa4b25216974ce5134fb29c144519720"
+
+[versions."2.4"]
+git = "https://github.com/HowardHinnant/date"
+commit = "d9052cffa2014a2bf23f15064c97f57ec042be14"
+
+[versions."3.0.2"]
+git = "https://github.com/HowardHinnant/date"
+commit = "dd8affc6de5755e07638bf0a14382d29549d6ee9"
+
+[versions."3.0.1"]
+git = "https://github.com/HowardHinnant/date"
+commit = "6e921e1b1d21e84a5c82416ba7ecd98e33a436d0"

@@ -1,0 +1,79 @@
+[versions."3.4.4"]
+git = "https://github.com/openssl/openssl"
+commit = "565bdcc41bbf89fcbaf962636469332689f0c9fd"
+
+[versions."3.5.2"]
+git = "https://github.com/openssl/openssl"
+commit = "0893a62353583343eb712adef6debdfbe597c227"
+
+[versions."3.5.3"]
+git = "https://github.com/openssl/openssl"
+commit = "c4da9ac23de497ce039a102e6715381047899447"
+
+[versions."3.5.4"]
+git = "https://github.com/openssl/openssl"
+commit = "c1eeb9406b6142148f267594197d853403d10208"
+
+[versions."3.5.6"]
+git = "https://github.com/openssl/openssl"
+commit = "286ddeaac037533bbdce65b3c689e3f7ffebf0f6"
+
+[versions."3.6.1"]
+git = "https://github.com/openssl/openssl"
+commit = "c9a9e5b10105ad850b6e4d1122c645c67767c341"
+
+[versions."4.0.0"]
+git = "https://github.com/openssl/openssl"
+commit = "a2d14571eca4168fde11d21ec7c42945dc1b8bdf"
+
+[versions."3.4.2"]
+git = "https://github.com/openssl/openssl"
+commit = "4292b5fd3dabb278c0094d53bf3a852593811417"
+
+[versions."3.3.5"]
+git = "https://github.com/openssl/openssl"
+commit = "f10934c46fef092d04788f01fd0a4eafe3ef715f"
+
+[versions."3.5.0"]
+git = "https://github.com/openssl/openssl"
+commit = "8fabfd81094d1d9f8890df4bee083aa6f77d769d"
+
+[versions."3.5.1"]
+git = "https://github.com/openssl/openssl"
+commit = "aea7aaf2abb04789f5868cbabec406ea43aa84bf"
+
+[versions."3.4.3"]
+git = "https://github.com/openssl/openssl"
+commit = "474f0e27bc6b23bbc3ae18543ede9315adfddf1a"
+
+[versions."3.4.1"]
+git = "https://github.com/openssl/openssl"
+commit = "a26d85337dbdcd33c971f38eb3fa5150e75cea87"
+
+[versions."3.4.5"]
+git = "https://github.com/openssl/openssl"
+commit = "03b8620d6e9b7b4d5701865edb6ad86101fe5517"
+
+[versions."3.3.6"]
+git = "https://github.com/openssl/openssl"
+commit = "4601ff25acd6c2fe58a8bfe241e6c470e27b8074"
+
+[versions."3.6.2"]
+git = "https://github.com/openssl/openssl"
+commit = "fe686e15d84334b284f883118ed92f64b409b3aa"
+
+[versions."3.6.0"]
+git = "https://github.com/openssl/openssl"
+commit = "eccb480c11c0220ab39acc3b06923979a7df1a9f"
+
+[versions."3.4.0"]
+git = "https://github.com/openssl/openssl"
+commit = "2648f68f4c33b1a5b89ed6ba20051d7c5e7f8f0e"
+
+[versions."3.5.5"]
+git = "https://github.com/openssl/openssl"
+commit = "67b5686b4419b4cb8caa502711c41815f5279751"
+
+[versions."3.3.7"]
+git = "https://github.com/openssl/openssl"
+commit = "204165c1550d3aa0f49395af654124cec2bbabf9"

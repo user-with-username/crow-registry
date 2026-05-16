@@ -1,0 +1,79 @@
+[versions."4.2.3"]
+git = "https://github.com/simdjson/simdjson"
+commit = "5d16fd5f3185452b8d9fc7503966754354a01688"
+
+[versions."4.1.0"]
+git = "https://github.com/simdjson/simdjson"
+commit = "0112be86b0dec7fd979d10f0cf405c1197181769"
+
+[versions."4.6.3"]
+git = "https://github.com/simdjson/simdjson"
+commit = "65e59ccf9b3bf47f5d9bd9d83b4098e5f5ebac57"
+
+[versions."4.0.6"]
+git = "https://github.com/simdjson/simdjson"
+commit = "b2932d1b8fa33e4a3372494a388f6b895f1ff9d4"
+
+[versions."4.3.1"]
+git = "https://github.com/simdjson/simdjson"
+commit = "e829566589ce573df18df5935dcb14070504c02e"
+
+[versions."4.4.1"]
+git = "https://github.com/simdjson/simdjson"
+commit = "5395aacb8b63db4bd3bd14f87f63da56a711d779"
+
+[versions."4.6.4"]
+git = "https://github.com/simdjson/simdjson"
+commit = "1bcf71bd85059ab6574ea1159de9298dcc1212c5"
+
+[versions."4.4.2"]
+git = "https://github.com/simdjson/simdjson"
+commit = "b4a0fd3ff4f00c4a5a9ab86046f06daa471a3b57"
+
+[versions."4.2.0"]
+git = "https://github.com/simdjson/simdjson"
+commit = "3d87bd4abc5df7d465b6bd0323f6e7366b588341"
+
+[versions."4.0.5"]
+git = "https://github.com/simdjson/simdjson"
+commit = "786c68b1586b5fd004d205f28d0031a68292dcea"
+
+[versions."4.2.4"]
+git = "https://github.com/simdjson/simdjson"
+commit = "980f2ad3afb12729157b44ed33d2bac41b67b54b"
+
+[versions."4.0.7"]
+git = "https://github.com/simdjson/simdjson"
+commit = "5ed1044056d884398efa88d0753bea1779edff88"
+
+[versions."4.6.0"]
+git = "https://github.com/simdjson/simdjson"
+commit = "f25d5f9fc244b24ee9a24933d1ecc685f6d300d4"
+
+[versions."4.2.1"]
+git = "https://github.com/simdjson/simdjson"
+commit = "235dbc5369bf4776d62284c27dfb7383113db727"
+
+[versions."4.6.2"]
+git = "https://github.com/simdjson/simdjson"
+commit = "61641f9a7aedc762d3b1c049a2b2a44d1c6db8a2"
+
+[versions."4.5.0"]
+git = "https://github.com/simdjson/simdjson"
+commit = "18d612df15b236b575a0475e09f8a7b4c3ce5f7b"
+
+[versions."4.6.1"]
+git = "https://github.com/simdjson/simdjson"
+commit = "fb83b114efcec4544eba8d45e3c7969ca756c086"
+
+[versions."4.3.0"]
+git = "https://github.com/simdjson/simdjson"
+commit = "06c774c655d5bb8dfb34ea0fac3d48cfb86d80de"
+
+[versions."4.2.2"]
+git = "https://github.com/simdjson/simdjson"
+commit = "b1c31b428d03f3c10df9142fe709b876bef455c2"
+
+[versions."4.4.0"]
+git = "https://github.com/simdjson/simdjson"
+commit = "be946942907791484aa5c2ce4579a3e7fd92f15c"

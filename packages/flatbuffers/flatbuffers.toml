@@ -1,0 +1,79 @@
+[versions."23.3.3"]
+git = "https://github.com/google/flatbuffers"
+commit = "01834de25e4bf3975a9a00e816292b1ad0fe184b"
+
+[versions."23.1.21"]
+git = "https://github.com/google/flatbuffers"
+commit = "ee848a02e17a94edaacd1dd95a1664b59c6f06b2"
+
+[versions."23.1.20"]
+git = "https://github.com/google/flatbuffers"
+commit = "1703662285f5b2a2ee1a151b17755fd709ad2e13"
+
+[versions."22.11.23"]
+git = "https://github.com/google/flatbuffers"
+commit = "8f625561d053d232897790ad5fdcc9a6a1832133"
+
+[versions."24.12.23"]
+git = "https://github.com/google/flatbuffers"
+commit = "a2cd1ea3b6d3fee220106b5fed3f7ce8da9eb757"
+
+[versions."23.5.8"]
+git = "https://github.com/google/flatbuffers"
+commit = "13fc75cb6b7b44793f3f5b4ba025ff403d012c9f"
+
+[versions."24.3.25"]
+git = "https://github.com/google/flatbuffers"
+commit = "595bf0007ab1929570c7671f091313c8fc20644e"
+
+[versions."25.12.19"]
+git = "https://github.com/google/flatbuffers"
+commit = "03fffb25e2d777462b719cb4964249c30b19d58f"
+
+[versions."23.5.9"]
+git = "https://github.com/google/flatbuffers"
+commit = "72b56fd0810c9a6cd38ea1c8f40feaa1bb4916b1"
+
+[versions."25.1.21"]
+git = "https://github.com/google/flatbuffers"
+commit = "df287ee6a7f1432371ac9d8dbe0d9d1d94eb0b07"
+
+[versions."24.3.7"]
+git = "https://github.com/google/flatbuffers"
+commit = "6ff9e90e7e399f3977e99a315856b57c8afe5b4d"
+
+[versions."23.5.26"]
+git = "https://github.com/google/flatbuffers"
+commit = "0100f6a5779831fa7a651e4b67ef389a8752bd9b"
+
+[versions."25.1.24"]
+git = "https://github.com/google/flatbuffers"
+commit = "0312061985dbaaf6b068006383946ac6095f5b63"
+
+[versions."25.9.23"]
+git = "https://github.com/google/flatbuffers"
+commit = "187240970746d00bbd26b0f5873ed54d2477f9f3"
+
+[versions."22.12.06"]
+git = "https://github.com/google/flatbuffers"
+commit = "acf39ff056df8c9e5bfa32cf6f7b5e6b87a90544"
+
+[versions."24.3.6"]
+git = "https://github.com/google/flatbuffers"
+commit = "d1867fb4cf7d64b2d3d23b67e86df6ae5d9f993b"
+
+[versions."23.1.4"]
+git = "https://github.com/google/flatbuffers"
+commit = "af9ceabeef1a10c1004e2741f8c0c090ca59e5af"
+
+[versions."22.12.6"]
+git = "https://github.com/google/flatbuffers"
+commit = "acf39ff056df8c9e5bfa32cf6f7b5e6b87a90544"
+
+[versions."25.2.10"]
+git = "https://github.com/google/flatbuffers"
+commit = "1c514626e83c20fffa8557e75641848e1e15cd5e"
+
+[versions."22.11.22"]
+git = "https://github.com/google/flatbuffers"
+commit = "9d2c04d62917847c3eb7c8ed49d63572aef5733a"

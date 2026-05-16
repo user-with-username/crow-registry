@@ -1,0 +1,79 @@
+[versions."1.3.7"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "f3b19a8a1f609d1a1b79002802e5cf8c336dc262"
+
+[versions."1.3.13"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "3257aa87ca2591f0ede5d6293c47f47c6e0828bd"
+
+[versions."1.2.0"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "59552fa6c49dddffc20f8eb32f8c8f00ff2daed1"
+
+[versions."1.3.4"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "cf73fef86e75ecbc2a4cf94a55ad90d64eaf0671"
+
+[versions."1.3.2"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "e29c63db54653a660d7a0f556f670b7a6fce0a78"
+
+[versions."1.3.5"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "58084931ed1a056d91fe96da7b9ea81fa023560a"
+
+[versions."1.3.8"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "4368319fb668204f345da05b9dd79762506c67b6"
+
+[versions."1.3.15"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "a63ac43bf192772910b52e27cd2b42a6098a0071"
+
+[versions."1.3.3"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "389ffdf9e72035ea2096b03cda7f4a6809ae6363"
+
+[versions."1.2.1"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "a9f9c301f8de1c181e6d45c573b5d1fe7b8200b1"
+
+[versions."1.3.0"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "e8e12e2e10689274bef56f4f82d5af0e51a231be"
+
+[versions."1.3.11"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "ad6baa121f4c6fbc7622d83d606210ac22549c78"
+
+[versions."1.3.6"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "39f5a515d048cc5ef897aaf319ddffb54ae9427c"
+
+[versions."1.2.2"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "8ac506e6eb0e5c5b2625785b67400bde705773a1"
+
+[versions."1.3.9"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "0c4ba0370e46c3d0d443c0368d02195faa791219"
+
+[versions."1.3.1"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "cff6ab8d8557a113ad97dfb779eb46647f7c92c7"
+
+[versions."1.3.14"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "b13fcead60bdc03f9771da25715bb134be89aa2f"
+
+[versions."1.3.10"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "8b9ce389099608cf9bae617d79d257d2cc05e12f"
+
+[versions."1.3.12"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "92c2ab31197eb5ec0a41499fd135352b5c4156b0"
+
+[versions."1.2.3"]
+git = "https://github.com/sewenew/redis-plus-plus"
+commit = "df522812ba4114f1dd3386b81afc2369c82b717d"

@@ -1,0 +1,79 @@
+[versions."1.14.1"]
+git = "https://github.com/pocoproject/poco"
+commit = "fee4dccb44396911e9559c6875e88146f64b7f55"
+
+[versions."1.14.2"]
+git = "https://github.com/pocoproject/poco"
+commit = "96d182a99303fb068575294b36f0cc20da2e7b25"
+
+[versions."1.13.3"]
+git = "https://github.com/pocoproject/poco"
+commit = "d6bd48a94c5f03e3c69cac1b024fdad5120e3a7b"
+
+[versions."1.15.2"]
+git = "https://github.com/pocoproject/poco"
+commit = "afbb1ab68f29eec7079e2fdfa04b3efdbec6529d"
+
+[versions."1.13.0"]
+git = "https://github.com/pocoproject/poco"
+commit = "fe3d9dba5b9a146dcb86929bfa102b742358be52"
+
+[versions."1.13.1"]
+git = "https://github.com/pocoproject/poco"
+commit = "6d17354001235f563a2b7a1f2ea8b67f37858805"
+
+[versions."1.12.1"]
+git = "https://github.com/pocoproject/poco"
+commit = "92fac970d4b6161fd58335bfe1492689ba5a80a3"
+
+[versions."1.12.5"]
+git = "https://github.com/pocoproject/poco"
+commit = "c04dfdbc37882f298d3178b3875cd67c38ea7d78"
+
+[versions."1.13.2"]
+git = "https://github.com/pocoproject/poco"
+commit = "a8aea338d211d6dbce75f5f07d70c449b94f1605"
+
+[versions."1.12.2"]
+git = "https://github.com/pocoproject/poco"
+commit = "be19dc4a2f30eb97cc9bdd7551460db11cc27353"
+
+[versions."1.12.0"]
+git = "https://github.com/pocoproject/poco"
+commit = "4ba8595ed83841d1fa240716b5652adc3772c36b"
+
+[versions."1.11.6"]
+git = "https://github.com/pocoproject/poco"
+commit = "3e14d408525a6325b16aa18154a6603da06cd769"
+
+[versions."1.11.7"]
+git = "https://github.com/pocoproject/poco"
+commit = "882af8f3d868ec17b0ef349f5bd5c7877ac6a820"
+
+[versions."1.12.3"]
+git = "https://github.com/pocoproject/poco"
+commit = "f1aefe34a46891b09230422bbc37465bc6d0a0d1"
+
+[versions."1.15.0"]
+git = "https://github.com/pocoproject/poco"
+commit = "52c558fbcda0578467e4f59c96961eb629ed3c77"
+
+[versions."1.11.8"]
+git = "https://github.com/pocoproject/poco"
+commit = "c6f27f6c96d280fad23d63271a7c9cd99ee18344"
+
+[versions."1.12.4"]
+git = "https://github.com/pocoproject/poco"
+commit = "1211613642269b7d53bea58b02de7fcd25ece3b9"
+
+[versions."1.11.5"]
+git = "https://github.com/pocoproject/poco"
+commit = "c2bde0c2aecad9fc8d4527f15719a0b1d0f32290"
+
+[versions."1.15.1"]
+git = "https://github.com/pocoproject/poco"
+commit = "a1aacbba1bda4301db01bb1a2c2ab80677756b90"
+
+[versions."1.14.0"]
+git = "https://github.com/pocoproject/poco"
+commit = "02c86d4cddb14de293eabdb795e4a7c61745eb2b"

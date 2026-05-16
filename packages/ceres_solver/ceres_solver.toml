@@ -1,0 +1,91 @@
+[versions."2.0.0rc2"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "a0ec5c32af5c5f5a52168dc2748be910dba14810"
+
+[versions."2.1.0rc1"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "a65e7388512a0dcb4e543542c6ad691319cc415c"
+
+[versions."2.0.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "79bbf95103672fa4b5485e055ff7692ee4a1f9da"
+
+[versions."2.1.0rc2"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "ff57c2e91e8ae2164579ad91d6093d342b12d64a"
+
+[versions."1.14.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "76fc4045796e3f908b71893f0f452365aeda3db9"
+
+[versions."1.12.0rc4"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "7cb5d9cca36fc0ad706b9c6b95ddeb8a01823cc8"
+
+[versions."1.9.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "8c62487e437b91d3d354cd1ae8957e43fe540732"
+
+[versions."2.2.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "5a30cae58317f1d3f67270c27b3151be0b6a65e6"
+
+[versions."2.2.0rc2"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "c8bed4b932956327b73f12c099cf03d47de5f60c"
+
+[versions."1.14.0rc2"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "b5d6ee4a88694efb9dadd25c8cf4ae1b14407d7e"
+
+[versions."2.1.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "a65e7388512a0dcb4e543542c6ad691319cc415c"
+
+[versions."2.2.0rc1"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "5a30cae58317f1d3f67270c27b3151be0b6a65e6"
+
+[versions."1.12.0rc2"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "717417512b4d979f761d33e273447392b09d1443"
+
+[versions."2.2.0rc3"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "76af132d02d055db2af1322e1314b03c493c6803"
+
+[versions."1.12.0rc3"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "0f80f018ffa4f9885e487f5d2e492ff94905a6e0"
+
+[versions."1.12.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "5690b447de5beed6bdda99b7f30f372283c2fb1a"
+
+[versions."1.10.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "6768b3586a027bb850c0a50e2a27380f5d80142a"
+
+[versions."1.11.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "22b67a59ade92c66e8902bf61e1a171a1a65b12a"
+
+[versions."1.12.0rc1"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "5690b447de5beed6bdda99b7f30f372283c2fb1a"
+
+[versions."1.14.0rc1"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "76fc4045796e3f908b71893f0f452365aeda3db9"
+
+[versions."1.13.0rc1"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "87f823617e83e066654082dd5d1a7ed07b078b72"
+
+[versions."2.0.0rc1"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "79bbf95103672fa4b5485e055ff7692ee4a1f9da"
+
+[versions."1.13.0"]
+git = "https://github.com/ceres-solver/ceres-solver"
+commit = "87f823617e83e066654082dd5d1a7ed07b078b72"

@@ -1,0 +1,51 @@
+[versions."1.15.2"]
+git = "https://github.com/google/googletest"
+commit = "b514bdc898e2951020cbdca1304b75f5950d1f59"
+
+[versions."1.14.0-pre"]
+git = "https://github.com/google/googletest"
+commit = "f8d7d77c06936315286eb55f8de22cd23c188571"
+
+[versions."1.10.x"]
+git = "https://github.com/google/googletest"
+commit = "703bd9caab50b139428cea1aaff9974ebee5742e"
+
+[versions."1.13.0"]
+git = "https://github.com/google/googletest"
+commit = "b796f7d44681514f58a683a3a71ff17c94edb0c1"
+
+[versions."1.12.0-pre"]
+git = "https://github.com/google/googletest"
+commit = "15460959cbbfa20e66ef0b5ab497367e47fc0a04"
+
+[versions."1.15.0-pre"]
+git = "https://github.com/google/googletest"
+commit = "e39786088138f2749d64e9e90e0f9902daa77c40"
+
+[versions."1.14.0"]
+git = "https://github.com/google/googletest"
+commit = "f8d7d77c06936315286eb55f8de22cd23c188571"
+
+[versions."1.15.1"]
+git = "https://github.com/google/googletest"
+commit = "075196ca060107d44b4e3a1f44b25886ed5bd187"
+
+[versions."1.16.0"]
+git = "https://github.com/google/googletest"
+commit = "6910c9d9165801d8827d628cb72eb7ea9dd538c5"
+
+[versions."1.17.0"]
+git = "https://github.com/google/googletest"
+commit = "52eb8108c5bdec04579160ae17225d66034bd723"
+
+[versions."1.13.0-pre"]
+git = "https://github.com/google/googletest"
+commit = "b796f7d44681514f58a683a3a71ff17c94edb0c1"
+
+[versions."1.12.0"]
+git = "https://github.com/google/googletest"
+commit = "15460959cbbfa20e66ef0b5ab497367e47fc0a04"
+
+[versions."1.15.0"]
+git = "https://github.com/google/googletest"
+commit = "e39786088138f2749d64e9e90e0f9902daa77c40"

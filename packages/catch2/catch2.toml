@@ -1,0 +1,79 @@
+[versions."3.5.1"]
+git = "https://github.com/catchorg/Catch2"
+commit = "f981c9cbcac07a2690e5a86767eba490b5465463"
+
+[versions."3.5.3"]
+git = "https://github.com/catchorg/Catch2"
+commit = "8ac8190e494a381072c89f5e161b92a08d98b37b"
+
+[versions."3.13.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "29c9844f688acb27c87338c39cd186ebfe41aa19"
+
+[versions."3.9.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "fee81626d2a4811095c3a39d20fb355eeb954101"
+
+[versions."3.5.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "53d0d913a422d356b23dd927547febdf69ee9081"
+
+[versions."3.14.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "b670de4fe12ac7c5e858b7de3a14fb4bd18c760e"
+
+[versions."3.7.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "31588bb4f56b638dd5afc28d3ebff9b9dcefb88d"
+
+[versions."3.5.4"]
+git = "https://github.com/catchorg/Catch2"
+commit = "b5373dadca40b7edc8570cf9470b9b1cb1934d40"
+
+[versions."3.4.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "6e79e682b726f524310d55dec8ddac4e9c52fb5f"
+
+[versions."3.6.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "4e8d92bf02f7d1c8006a0e7a5ecabd8e62d98502"
+
+[versions."3.7.1"]
+git = "https://github.com/catchorg/Catch2"
+commit = "fa43b77429ba76c462b1898d6cd2f2d7a9416b14"
+
+[versions."3.9.1"]
+git = "https://github.com/catchorg/Catch2"
+commit = "644821ce28cb25d7992a4d0375b1d83214392592"
+
+[versions."3.10.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "25319fd3047c6bdcf3c0170e76fa526c77f99ca9"
+
+[versions."3.11.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "b3fb4b9feafcd8d91c5cb510a4775143fdbef02f"
+
+[versions."3.3.1"]
+git = "https://github.com/catchorg/Catch2"
+commit = "2ab20a0e008845e02bd06248e61ca6e5ad1aba33"
+
+[versions."3.5.2"]
+git = "https://github.com/catchorg/Catch2"
+commit = "05e10dfccc28c7f973727c54f850237d07d5e10f"
+
+[versions."3.8.1"]
+git = "https://github.com/catchorg/Catch2"
+commit = "2b60af89e23d28eefc081bc930831ee9d45ea58b"
+
+[versions."3.3.2"]
+git = "https://github.com/catchorg/Catch2"
+commit = "3f0283de7a9c43200033da996ff9093be3ac84dc"
+
+[versions."3.12.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "88abf9bf325c798c33f54f6b9220ef885b267f4f"
+
+[versions."3.8.0"]
+git = "https://github.com/catchorg/Catch2"
+commit = "914aeecfe23b1e16af6ea675a4fb5dbd5a5b8d0a"

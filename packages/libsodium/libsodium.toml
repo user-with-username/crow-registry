@@ -1,0 +1,123 @@
+[versions."1.0.18"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "45b09a607d596e40adbff9ab812e47d85175c053"
+
+[versions."1.0.7"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "a84ae0170c73641d9581780549a51abadbbb26eb"
+
+[versions."1.0.16"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "675149b9b8b66ff44152553fb3ebf9858128363d"
+
+[versions."1.0.9"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "66045e682143c68288be45135ab47ec8d49b6554"
+
+[versions."1.0.21-FINAL"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "3e7548c62f68909461a67f396be0494584a7aae4"
+
+[versions."1.0.20-RELEASE"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "9511c982fb1d046470a8b42aa36556cdb7da15de"
+
+[versions."1.0.6"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "1ec9de70f1d02365eed8db796affe882cf4d5524"
+
+[versions."1.0.20-FINAL"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "93a7d0d41fe2e32409b5d00386946f491750b7de"
+
+[versions."1.0.15"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "c5e43f4c1cf62b4669b1f33516fc33ef2d005187"
+
+[versions."1.0.21-RELEASE"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "d24faf56214469b354b01c8ba36257e04737101e"
+
+[versions."1.0.10"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "fce6852d64339efa33c0ee4130b3107b888d6067"
+
+[versions."1.0.17"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "c943d18f387e442cf800e32c50c9bd60ae606e68"
+
+[versions."1.0.19-RELEASE"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "fb4533b0a941b3a5b1db5687d1b008a5853d1f29"
+
+[versions."1.0.19"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "26ea6b443361a9a95b0b3541114fb67902c2ce20"
+
+[versions."1.0.4"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "af9c77b171038b8a23d11d3f5044a0e4ffdc91ba"
+
+[versions."1.0.22-RELEASE"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "77e1ce5d6dee871c49ef211222ba18ef0c486bda"
+
+[versions."1.0.22"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "77e1ce5d6dee871c49ef211222ba18ef0c486bda"
+
+[versions."1.0.18-RELEASE"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "940ef42797baa0278df6b7fd9e67c7590f87744b"
+
+[versions."1.0.14"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "4c37368f95e756b7f930f437e5ecbdc934d5f926"
+
+[versions."1.0.17-FINAL"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "c943d18f387e442cf800e32c50c9bd60ae606e68"
+
+[versions."1.0.5"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "220e972bb1ae0e02f331bf7a6b65d2732cea40f4"
+
+[versions."1.0.8"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "342f209cbe1c1c05330b832abf5b6d39f698e685"
+
+[versions."1.0.21"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "3e7548c62f68909461a67f396be0494584a7aae4"
+
+[versions."1.0.12"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "70170c28c844a4786e75efc626e1aeebc93caebc"
+
+[versions."1.0.13"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "7d5d9204e515ce37cce6d5e5015a1f94d1d92492"
+
+[versions."1.0.18-FINAL"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "45b09a607d596e40adbff9ab812e47d85175c053"
+
+[versions."1.0.11"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "2f4f718cd94adab547c210a78050762cf667dfca"
+
+[versions."1.0.17-RELEASE"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "b732443c442239c2e0184820e9b23cca0de0828c"
+
+[versions."1.0.20"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "93a7d0d41fe2e32409b5d00386946f491750b7de"
+
+[versions."1.0.3"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "63dd05419e8a4175fd59da50a58afbdc20a2cd31"
+
+[versions."1.0.19-FINAL"]
+git = "https://github.com/jedisct1/libsodium"
+commit = "26ea6b443361a9a95b0b3541114fb67902c2ce20"

@@ -1,0 +1,79 @@
+[versions."2.13.6"]
+git = "https://github.com/GNOME/libxml2"
+commit = "66453240c94b5cbd3e9ae9b32016fdafb13cdf18"
+
+[versions."2.13.9"]
+git = "https://github.com/GNOME/libxml2"
+commit = "04af2cabb9f859c198b8a553c028a87481199410"
+
+[versions."2.13.2"]
+git = "https://github.com/GNOME/libxml2"
+commit = "4b3f860e5420ade19a825dc7f4d75789489535ba"
+
+[versions."2.13.4"]
+git = "https://github.com/GNOME/libxml2"
+commit = "60d3056c97067e6cb2125284878ed7c99c90ed81"
+
+[versions."2.14.5"]
+git = "https://github.com/GNOME/libxml2"
+commit = "74f3154320df8950eceae4951975cc9dfc3a254d"
+
+[versions."2.15.1"]
+git = "https://github.com/GNOME/libxml2"
+commit = "b7fa62cbe8ef0df5869e000d5b690bdedd07f33e"
+
+[versions."2.13.8"]
+git = "https://github.com/GNOME/libxml2"
+commit = "eb0a2f2b91566384f378d870ffcd69c0a24162cc"
+
+[versions."2.15.3"]
+git = "https://github.com/GNOME/libxml2"
+commit = "c94eb0210183b9d7cb43f8e7fddc6be55843ef49"
+
+[versions."2.14.4"]
+git = "https://github.com/GNOME/libxml2"
+commit = "4c6b2c3096b1da0d0780fe0b4f147e837140468d"
+
+[versions."2.14.2"]
+git = "https://github.com/GNOME/libxml2"
+commit = "0e145ae4881c2a05ae00128a3bd90d76d4dadc4b"
+
+[versions."2.13.3"]
+git = "https://github.com/GNOME/libxml2"
+commit = "3b1742b8391e966be780bdc43fdf959f7b3a118c"
+
+[versions."2.14.0"]
+git = "https://github.com/GNOME/libxml2"
+commit = "a372cbf5821302ebaf757235b29ba812df78204d"
+
+[versions."2.15.2"]
+git = "https://github.com/GNOME/libxml2"
+commit = "3d840e17858de03a09fba8b202e3a89267d5795a"
+
+[versions."2.15.0"]
+git = "https://github.com/GNOME/libxml2"
+commit = "0bea77c8289324483c0504d36ac730bb03f6a70b"
+
+[versions."2.13.7"]
+git = "https://github.com/GNOME/libxml2"
+commit = "9b8fbe99ad14fe32c5dd5913743046d80cf347fe"
+
+[versions."2.13.5"]
+git = "https://github.com/GNOME/libxml2"
+commit = "de918d45e1b2276a28a4cd32bcf556bef65284e4"
+
+[versions."2.14.6"]
+git = "https://github.com/GNOME/libxml2"
+commit = "d23960a130c5bb82779c9405fbbf85e65fb3c57c"
+
+[versions."2.14.1"]
+git = "https://github.com/GNOME/libxml2"
+commit = "0f10a05d2e1043dcc178736b82277223a76eacc9"
+
+[versions."2.14.3"]
+git = "https://github.com/GNOME/libxml2"
+commit = "8d509f483dd5ce268b2fded9c738132c47d820d8"
+
+[versions."2.13.1"]
+git = "https://github.com/GNOME/libxml2"
+commit = "48dba1e21f8f1a7d8a817eaf65831396e74b78d2"

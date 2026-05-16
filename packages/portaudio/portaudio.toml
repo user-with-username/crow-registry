@@ -1,0 +1,15 @@
+[versions.19-devel-pre-restructure]
+git = "https://github.com/PortAudio/portaudio"
+commit = "61f17cde172c8f84c73f5618a88cf207520195eb"
+
+[versions."19.7.0-RC2"]
+git = "https://github.com/PortAudio/portaudio"
+commit = "147dd722548358763a8b649b3e4b41dfffbcfbb6"
+
+[versions."19.7.0"]
+git = "https://github.com/PortAudio/portaudio"
+commit = "147dd722548358763a8b649b3e4b41dfffbcfbb6"
+
+[versions.19p-2008-03-20]
+git = "https://github.com/PortAudio/portaudio"
+commit = "2a490d808667852d4db85653812b2b7275c46e4b"

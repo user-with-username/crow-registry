@@ -1,0 +1,27 @@
+[versions."1.6.0"]
+git = "https://github.com/emilk/loguru"
+commit = "08baf62e286a9fb0669de4d5ff98ab3a3c1aad66"
+
+[versions."1.7.1"]
+git = "https://github.com/emilk/loguru"
+commit = "190d0645cc3b4244075c7d762b080ed67700690b"
+
+[versions."2.0.0"]
+git = "https://github.com/emilk/loguru"
+commit = "b7a7bf9b94ceb933fc95cbfaa72f95a658ac8135"
+
+[versions."1.7.0"]
+git = "https://github.com/emilk/loguru"
+commit = "e28e773543ea93312d700244b557a2ecaf2aae53"
+
+[versions."1.8.0"]
+git = "https://github.com/emilk/loguru"
+commit = "5f9788b6748d1af2264ba96df4985113ec1b6284"
+
+[versions."1.5.0"]
+git = "https://github.com/emilk/loguru"
+commit = "567f74849741c216aaa5f7e3604f9726602b1936"
+
+[versions."2.1.0"]
+git = "https://github.com/emilk/loguru"
+commit = "9c2fea0d4530657f23259be4132f8101c98b579e"

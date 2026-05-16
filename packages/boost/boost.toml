@@ -1,0 +1,59 @@
+[versions."1.85.0"]
+git = "https://github.com/boostorg/boost"
+commit = "cd3c1e084cb4b8ab4d5629dc584fc4841cbb9a52"
+
+[versions."1.90.0"]
+git = "https://github.com/boostorg/boost"
+commit = "41c88d7887642e76e91bec1c3616a453686cdd77"
+
+[versions."1.82.0"]
+git = "https://github.com/boostorg/boost"
+commit = "ee18548b1eb68a592d0980611b5f96216ee71a2d"
+
+[versions."1.80.0"]
+git = "https://github.com/boostorg/boost"
+commit = "67c074b249538cf441724f9bbb3929d0f6b4f333"
+
+[versions."1.81.0"]
+git = "https://github.com/boostorg/boost"
+commit = "c696104d62315b70a53c1260dcd042da9d6c4f6c"
+
+[versions."1.79.0"]
+git = "https://github.com/boostorg/boost"
+commit = "5df8086b733798c8e08e316626a16babe11bd0d2"
+
+[versions."1.78.0"]
+git = "https://github.com/boostorg/boost"
+commit = "594e81c38ff6f78710f5a88d1244cf92d1cce7ac"
+
+[versions."1.86.0"]
+git = "https://github.com/boostorg/boost"
+commit = "e4b2e2d6a11c9596a022ddfaa49c7a3c6261e297"
+
+[versions."1.88.0"]
+git = "https://github.com/boostorg/boost"
+commit = "a9366bf76114bd9b8a1f574f63afed125e5bed05"
+
+[versions."1.77.0"]
+git = "https://github.com/boostorg/boost"
+commit = "9d3f9bcd7d416880d4631d7d39cceeb4e8f25da0"
+
+[versions."1.83.0"]
+git = "https://github.com/boostorg/boost"
+commit = "816729face35452ab27c0d5ebc6b810b1abac0b8"
+
+[versions."1.89.0"]
+git = "https://github.com/boostorg/boost"
+commit = "721cffbbd95856ac9ad5a04300a8e9feaa72b043"
+
+[versions."1.84.0"]
+git = "https://github.com/boostorg/boost"
+commit = "05ac69322c87f7e63234010b745365d8f8a4236d"
+
+[versions."1.87.0"]
+git = "https://github.com/boostorg/boost"
+commit = "7e09330c84621efd22370bf57289b67c7283ee21"
+
+[versions."1.91.0"]
+git = "https://github.com/boostorg/boost"
+commit = "25a8895fcdd04faa2afff3c124c41b54713be88d"

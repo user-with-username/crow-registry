@@ -1,0 +1,79 @@
+[versions."3.3.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "52e8f524a90a3fdc6f4dbd4dfd3a0d82f78e2d51"
+
+[versions."1.4.1"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "c2c2262626b20c75d1bebbab5e35d3f9282d7f63"
+
+[versions."1.4.4"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "d7b930846cdccfc8bcecc4d7150ddcbadffac360"
+
+[versions."1.4.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "5e9f8225982e9711b548c886fe6b477cdefd0fd4"
+
+[versions."1.2.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "52f72a26e752bd43c9de4953577862fdaff99001"
+
+[versions."3.0.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "c74846a891b3cc3bfa992d588b1295f528d43039"
+
+[versions."2.0.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "8893afe13cc47dd0be4f25b5ae491e652c146098"
+
+[versions."2.1.1"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "00e8ecc482b79c04942fc2c08773618348bd0a6a"
+
+[versions."2.1.2"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "a0de9f3ba1035a3c4f5ffcd960cb94e4e12d40c5"
+
+[versions."2.2.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "e6858d3429e0ba5fe6f42ce2018069ce992f3d26"
+
+[versions."3.2.1"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "4bf61f08697b110d9e3991864650a405b3dd515d"
+
+[versions."2.1.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "0fe1dc892bcbef48b3911510209c7033f31ce05e"
+
+[versions."1.4.2"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "1e51db16b5eba27c9a7a36a74561cfa19e220223"
+
+[versions."2.2.1"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "302302b30839505703d37fb82f536c53cf9172fa"
+
+[versions."1.4.3"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "0b7686949d01f6475cc13ba0693725aefb76fc0c"
+
+[versions."1.3.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "f931fd4279e2638ac659fafe0b43fe71a031ecb2"
+
+[versions."3.1.1"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "eb787304d67ec22f7c3a184ee8b4c481d04357fd"
+
+[versions."3.2.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "3bf268481da8208d171d8908e6491459de3651d7"
+
+[versions."3.3.1"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "44380e5a44706ab7347f400698c703eb2a196202"
+
+[versions."3.1.0"]
+git = "https://github.com/jarro2783/cxxopts"
+commit = "c12ce65503ca5c9c1a88a54b2e49a84c43587e65"

@@ -1,0 +1,79 @@
+[versions."0.24.6"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "e534928cc30eb3a4a05539747d98e1d6868c2d62"
+
+[versions."0.24.0"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "825c0fd8a465049c06ad89fa3911b342dbffcabf"
+
+[versions."0.24.7"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "44b56bbae2185ebf19e6f617ac5690344b9e35a4"
+
+[versions."0.26.0"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "f31d415a507b84d0097436a38293df3f56906ad1"
+
+[versions."0.23.7"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "644970a7d0f7b05f7eedbdc714db418ab1c4b13e"
+
+[versions."0.27.1"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "f115228a7fc277b9be1bef34572831f8fd53ac73"
+
+[versions."0.23.6"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "a1f6b16ca9a2a47e53a074c17e4fe974808edbd8"
+
+[versions."0.23.3"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "62645d3b5b7a53a0f2bc4277b0912c9687de449b"
+
+[versions."0.23.5"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "05c88440bc72a5d1b5dccabd9ee4ec043131348f"
+
+[versions."0.25.0"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "3634f2ded19e0cf38208c8b86cea9e1d7c8e397d"
+
+[versions."0.23.4"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "36bdf5e18c476cba8ceb034fb625f6ae56392003"
+
+[versions."0.23.9"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "41be2233d24f5de9d7f7bc8c44b91317be810699"
+
+[versions."0.23.8"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "b7a8cd031d6abfc27bff8e5dad5d0ecd8567e2db"
+
+[versions."0.24.5"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "f620f81b6d5d83b8412bc2cf153262ccab023b9b"
+
+[versions."0.27.0"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "c7ae1a6aae85bed9f6bf912da78c70b3a7f49900"
+
+[versions."0.24.4"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "545dd7aa78104052bb8e45c3175efff313d477dc"
+
+[versions."0.24.1"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "004370c79716a2d7b3cf9d04af947363d813a29f"
+
+[versions."0.24.2"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "214d812aa43e5f897c5c0db6ef83c38a2bdc81a2"
+
+[versions."0.24.3"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "9e8662ddad7fcd1a96969b96bf8955e59cf44978"
+
+[versions."0.23.10"]
+git = "https://github.com/xtensor-stack/xtensor"
+commit = "f3c11b2d810159e7063daddeaa0764f4006e5a73"

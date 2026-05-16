@@ -1,0 +1,59 @@
+[versions."1.7.4.2"]
+git = "https://github.com/lz4/lz4"
+commit = "018ddf799917ee5c68b5266d6f42277fa6750080"
+
+[versions."1.7.4"]
+git = "https://github.com/lz4/lz4"
+commit = "cc21115cb4f9ff1f97322104ffb19ca89b5a0eb1"
+
+[versions."1.9.1"]
+git = "https://github.com/lz4/lz4"
+commit = "398e36c756a3067de8e2b35dd380baef040dfe0d"
+
+[versions."1.9.3"]
+git = "https://github.com/lz4/lz4"
+commit = "d44371841a2f1728a3f36839fd4b7e872d0927d3"
+
+[versions."1.8.2"]
+git = "https://github.com/lz4/lz4"
+commit = "b3692db46d2b23a7c0af2d5e69988c94f126e10a"
+
+[versions."1.9.2"]
+git = "https://github.com/lz4/lz4"
+commit = "fdf2ef5809ca875c454510610764d9125ef2ebbd"
+
+[versions."1.9.4"]
+git = "https://github.com/lz4/lz4"
+commit = "5ff839680134437dbf4678f3d0c7b371d84f4964"
+
+[versions."1.10.0"]
+git = "https://github.com/lz4/lz4"
+commit = "ebb370ca83af193212df4dcbadcc5d87bc0de2f0"
+
+[versions."1.7.5"]
+git = "https://github.com/lz4/lz4"
+commit = "7bb64ff2b69a9f8367de9ab483cdadf42b4c1b65"
+
+[versions."1.7.3"]
+git = "https://github.com/lz4/lz4"
+commit = "7fde7438d39f8452f89e3fee5ba4a16c502dffb0"
+
+[versions."1.8.0"]
+git = "https://github.com/lz4/lz4"
+commit = "c10863b98e1503af90616ae99725ecd120265dfb"
+
+[versions."1.8.1.2"]
+git = "https://github.com/lz4/lz4"
+commit = "dfed9fa1d77f0434306d377c4da1f7191d3ba08a"
+
+[versions."1.8.1"]
+git = "https://github.com/lz4/lz4"
+commit = "fb5e98a334d5538f4ffa70f5f51b8286531fe1ae"
+
+[versions."1.8.3"]
+git = "https://github.com/lz4/lz4"
+commit = "641b453d9db536ee020851bfcb1dc39f61006f0a"
+
+[versions."1.9.0"]
+git = "https://github.com/lz4/lz4"
+commit = "131896ab9d4fc9b8c606616327ed223d5d86472b"

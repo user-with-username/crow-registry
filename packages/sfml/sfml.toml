@@ -1,0 +1,79 @@
+[versions."2.1"]
+git = "https://github.com/SFML/SFML"
+commit = "6c1899d0f70e4dc845d7f482b22c9d79f7cd4f2f"
+
+[versions."3.0.1"]
+git = "https://github.com/SFML/SFML"
+commit = "016bea9491ccafc3529019fe1d403885a8b3a6ae"
+
+[versions."2.6.1"]
+git = "https://github.com/SFML/SFML"
+commit = "69ea0cd863aed1d4092b970b676924a716ff718b"
+
+[versions."2.4.0"]
+git = "https://github.com/SFML/SFML"
+commit = "8df84935152b89a0f569058bb66e9e1bdc095bfa"
+
+[versions."2.2"]
+git = "https://github.com/SFML/SFML"
+commit = "fc850ed99fc3e52e16c7d9d1bf71daf92cbe5f76"
+
+[versions."2.5.0"]
+git = "https://github.com/SFML/SFML"
+commit = "192eb968a4e938f36948e97f97ddc354a8a470fe"
+
+[versions."2.3.1"]
+git = "https://github.com/SFML/SFML"
+commit = "b735777c4ade9d9b184576e664a4a26d7cdd8ecd"
+
+[versions."2.6.2"]
+git = "https://github.com/SFML/SFML"
+commit = "5383d2b3948f805af55c9f8a4587ac72ec5981d1"
+
+[versions."2.3.2"]
+git = "https://github.com/SFML/SFML"
+commit = "01d72438debdf0ecc75260a3e7d7201c130537d5"
+
+[versions."3.0.2"]
+git = "https://github.com/SFML/SFML"
+commit = "0fa201c969e48ecc253581c5841ce73f44d42f49"
+
+[versions."3.1.0"]
+git = "https://github.com/SFML/SFML"
+commit = "8835b6b955c96fa1ad1278a8dae6f05c4143effc"
+
+[versions."2.5.1"]
+git = "https://github.com/SFML/SFML"
+commit = "2f11710abc5aa478503a7ff3f9e654bd2078ebab"
+
+[versions."2.6.0"]
+git = "https://github.com/SFML/SFML"
+commit = "11b73743c42cf7ecd7c596ba83fdbf1150ffa96c"
+
+[versions."3.0.0-rc.1"]
+git = "https://github.com/SFML/SFML"
+commit = "2116a3ba85673e3e30dc637a2cf2e20d1c4aa710"
+
+[versions."2.3"]
+git = "https://github.com/SFML/SFML"
+commit = "80214d1cb916ae5f49c63ade4c167369faab9b9e"
+
+[versions."2.4.1"]
+git = "https://github.com/SFML/SFML"
+commit = "b3e44568dfbd76bd81dca3ef11d6f2763446bbb7"
+
+[versions."2.0"]
+git = "https://github.com/SFML/SFML"
+commit = "19276a552e5c36a3673832f80efe21028d0db33d"
+
+[versions."3.0.0-rc.2"]
+git = "https://github.com/SFML/SFML"
+commit = "f930cbc562a31ebdb09aaf2c37d77a33f8de987d"
+
+[versions."2.4.2"]
+git = "https://github.com/SFML/SFML"
+commit = "b7be4b299ea7e2f64b6df7295a7b3c8d94f7b9a4"
+
+[versions."3.0.0"]
+git = "https://github.com/SFML/SFML"
+commit = "2116a3ba85673e3e30dc637a2cf2e20d1c4aa710"

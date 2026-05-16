@@ -1,0 +1,103 @@
+[versions."4.10.0-kleidicv"]
+git = "https://github.com/opencv/opencv"
+commit = "76eff34bdc4abc17939f611211224ac65b11698c"
+
+[versions."5.0.0"]
+git = "https://github.com/opencv/opencv"
+commit = "616fd509478bce17749cbc94852a1cc50d1e8f06"
+
+[versions."4.8.1"]
+git = "https://github.com/opencv/opencv"
+commit = "5199850039ad23f1f0e6cccea5061a9fea5efca6"
+
+[versions."4.5.4"]
+git = "https://github.com/opencv/opencv"
+commit = "4223495e6cd67011f86b8ecd9be1fa105018f3b1"
+
+[versions."4.9.0"]
+git = "https://github.com/opencv/opencv"
+commit = "dad8af6b17f8e60d7b95a1203a1b4d22f56574cf"
+
+[versions."4.5.3-openvino-2021.4.1"]
+git = "https://github.com/opencv/opencv"
+commit = "8cfe9546f3c3314ac5b5287f9542153d28f66bb6"
+
+[versions."4.4.0"]
+git = "https://github.com/opencv/opencv"
+commit = "62eece0d7e67df1e79d9646f0870a90e56feca10"
+
+[versions."4.5.3-openvino-2021.4.2"]
+git = "https://github.com/opencv/opencv"
+commit = "6860e8ed77b15b74ad0ff670c04379cf5d1fc9f8"
+
+[versions."4.11.0"]
+git = "https://github.com/opencv/opencv"
+commit = "31b0eeea0b44b370fd0712312df4214d4ae1b158"
+
+[versions."4.5.3-openvino"]
+git = "https://github.com/opencv/opencv"
+commit = "fd2b5411e4d73739d85d53d0c2e9bf32251c50e3"
+
+[versions."4.5.2-openvino"]
+git = "https://github.com/opencv/opencv"
+commit = "898c639f6ab195b81a1d3e9b2470a3f03123dd03"
+
+[versions."4.2.0"]
+git = "https://github.com/opencv/opencv"
+commit = "bda89a6469aa79ecd8713967916bd754bff1d931"
+
+[versions."4.5.5"]
+git = "https://github.com/opencv/opencv"
+commit = "c3d60a6cac5b5b3c452d766494d21b005221efe0"
+
+[versions."4.7.0"]
+git = "https://github.com/opencv/opencv"
+commit = "725e440d278aca07d35a5e8963ef990572b07316"
+
+[versions."4.12.0"]
+git = "https://github.com/opencv/opencv"
+commit = "49486f61fb25722cbcf586b7f4320921d46fb38e"
+
+[versions."4.13.0"]
+git = "https://github.com/opencv/opencv"
+commit = "fe38fc608f6acb8b68953438a62305d8318f4fcd"
+
+[versions."4.5.0"]
+git = "https://github.com/opencv/opencv"
+commit = "464efeb7b07211706d0f2615e16c8d144447d362"
+
+[versions."4.10.0"]
+git = "https://github.com/opencv/opencv"
+commit = "76eff34bdc4abc17939f611211224ac65b11698c"
+
+[versions."4.5.2"]
+git = "https://github.com/opencv/opencv"
+commit = "898c639f6ab195b81a1d3e9b2470a3f03123dd03"
+
+[versions."4.5.3"]
+git = "https://github.com/opencv/opencv"
+commit = "fd2b5411e4d73739d85d53d0c2e9bf32251c50e3"
+
+[versions."4.5.5-openvino-2022.1.0"]
+git = "https://github.com/opencv/opencv"
+commit = "c3d60a6cac5b5b3c452d766494d21b005221efe0"
+
+[versions."4.3.0"]
+git = "https://github.com/opencv/opencv"
+commit = "4d34934d25765ab06d8f7cb1ae0af78281b2784a"
+
+[versions."4.6.0"]
+git = "https://github.com/opencv/opencv"
+commit = "b0dc474160e389b9c9045da5db49d03ae17c6a6b"
+
+[versions."4.8.0"]
+git = "https://github.com/opencv/opencv"
+commit = "f9a59f2592993d3dcc080e495f4f5e02dd8ec7ef"
+
+[versions."5.0.0-alpha"]
+git = "https://github.com/opencv/opencv"
+commit = "616fd509478bce17749cbc94852a1cc50d1e8f06"
+
+[versions."4.5.1"]
+git = "https://github.com/opencv/opencv"
+commit = "705e7b207c4c95231fb18c7ddfad353795aa6531"

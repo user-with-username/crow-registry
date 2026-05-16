@@ -1,0 +1,79 @@
+[versions."4.3.1"]
+git = "https://github.com/zeromq/libzmq"
+commit = "2cb1240db64ce1ea299e00474c646a2453a8435b"
+
+[versions."4.1.7"]
+git = "https://github.com/zeromq/libzmq"
+commit = "c9894a493dd4a460d6a109a017609925ce589e31"
+
+[versions."4.2.1"]
+git = "https://github.com/zeromq/libzmq"
+commit = "7005f22726d4a6ca527f27560a0a132394fdbbcc"
+
+[versions."4.3.3"]
+git = "https://github.com/zeromq/libzmq"
+commit = "04f5bbedee58c538934374dc45182d8fc5926fa3"
+
+[versions."4.2.2"]
+git = "https://github.com/zeromq/libzmq"
+commit = "8d75d506b6f88265bc0fb57b93385b45e35cdd10"
+
+[versions."4.1.4"]
+git = "https://github.com/zeromq/libzmq"
+commit = "7ee12b527d61ab4242967ac6159c6d6d9b64b89f"
+
+[versions."4.2.3"]
+git = "https://github.com/zeromq/libzmq"
+commit = "3226b8ebddd9c6c738ba42986822c26418a49afb"
+
+[versions."4.3.5"]
+git = "https://github.com/zeromq/libzmq"
+commit = "622fc6dde99ee172ebaa9c8628d85a7a1995a21d"
+
+[versions."4.1.6"]
+git = "https://github.com/zeromq/libzmq"
+commit = "ec95f91e686f270a93a4f9a6a15c73c8eb3df8c6"
+
+[versions."4.2.4"]
+git = "https://github.com/zeromq/libzmq"
+commit = "44f7158b291941c5fe5e2ba76e57d1676de81430"
+
+[versions."4.1.5"]
+git = "https://github.com/zeromq/libzmq"
+commit = "c5bd2870c2eaa3fd12f4c53367a3c9a0fd14fe85"
+
+[versions."4.3.0"]
+git = "https://github.com/zeromq/libzmq"
+commit = "eff190d5031d313451505f323d3dd1c38ab9c25c"
+
+[versions."4.1.2"]
+git = "https://github.com/zeromq/libzmq"
+commit = "575da3ec7ad2cdb85386d7ec2459b550b884c332"
+
+[versions."4.1.1"]
+git = "https://github.com/zeromq/libzmq"
+commit = "203cd808e249c06e1818cc3d70de4e48caf5f92b"
+
+[versions."4.2.5"]
+git = "https://github.com/zeromq/libzmq"
+commit = "d062edd8c142384792955796329baf1e5a3377cd"
+
+[versions."4.3.2"]
+git = "https://github.com/zeromq/libzmq"
+commit = "a84ffa12b2eb3569ced199660bac5ad128bff1f0"
+
+[versions."4.3.4"]
+git = "https://github.com/zeromq/libzmq"
+commit = "4097855ddaaa65ed7b5e8cb86d143842a594eebd"
+
+[versions."4.2.0"]
+git = "https://github.com/zeromq/libzmq"
+commit = "8cf4832e01cf9f3161157373e9c66e7be18ae0bb"
+
+[versions."4.1.8"]
+git = "https://github.com/zeromq/libzmq"
+commit = "12dede9a13967667a2a643a137443c1f8db4cb72"
+
+[versions."4.1.3"]
+git = "https://github.com/zeromq/libzmq"
+commit = "765b1f24e31b876bde23eaaf389ca8623822c9bd"

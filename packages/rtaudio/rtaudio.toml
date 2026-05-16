@@ -1,0 +1,79 @@
+[versions."4.0.1"]
+git = "https://github.com/thestk/rtaudio"
+commit = "36a9647a9f57cb70a7748f702b174cd619c3ecbd"
+
+[versions."4.1.2"]
+git = "https://github.com/thestk/rtaudio"
+commit = "f4c674cf4a4c7487121977179e1ce623b8231ca6"
+
+[versions."5.0.0"]
+git = "https://github.com/thestk/rtaudio"
+commit = "29167f363ed88727e28d3003fc0cd2e56a04a5ac"
+
+[versions."4.0.2"]
+git = "https://github.com/thestk/rtaudio"
+commit = "64f75193375cc6ec0052e33131df5939b7926ecd"
+
+[versions."4.0.3"]
+git = "https://github.com/thestk/rtaudio"
+commit = "1c8dcf10265b9e8205dc94e6575d06fccbd6c07a"
+
+[versions."4.0.10"]
+git = "https://github.com/thestk/rtaudio"
+commit = "89fa26771ee945ee233940fb09d8b41663249521"
+
+[versions."4.0.12"]
+git = "https://github.com/thestk/rtaudio"
+commit = "2ea2d92e3b4e1e87ffe1df14da877334834a499f"
+
+[versions."4.0.5"]
+git = "https://github.com/thestk/rtaudio"
+commit = "f44483cc73ce2a36229c3f904c4230243a181e51"
+
+[versions."4.1.1"]
+git = "https://github.com/thestk/rtaudio"
+commit = "22c00ec584b413374ad5a2c119592acaba5e799e"
+
+[versions."6.0.0"]
+git = "https://github.com/thestk/rtaudio"
+commit = "0e11b50a7ba85875d09d60c097092d1d4bd760b2"
+
+[versions."4.0.4"]
+git = "https://github.com/thestk/rtaudio"
+commit = "504ebe4ba69765df5ca0da115690c29e52a44c6d"
+
+[versions."5.1.0"]
+git = "https://github.com/thestk/rtaudio"
+commit = "d27f257b4bc827e4152cdc4d69a2e22084204afd"
+
+[versions."5.2.0"]
+git = "https://github.com/thestk/rtaudio"
+commit = "46b01b5b134f33d8ddc3dab76829d4b1350e0522"
+
+[versions."4.0.7"]
+git = "https://github.com/thestk/rtaudio"
+commit = "be2eb99b37cd017fcab00c1704f794cb1bc85ee1"
+
+[versions."4.0.6"]
+git = "https://github.com/thestk/rtaudio"
+commit = "ca97faab7479305921e72bfde46f4c7f9868a4fa"
+
+[versions."6.0.1"]
+git = "https://github.com/thestk/rtaudio"
+commit = "b4f04903312e0e0efffbe77655172e0f060dc085"
+
+[versions."4.0.9"]
+git = "https://github.com/thestk/rtaudio"
+commit = "f505bc0a8fd3d6e1384f1ba3862153a5dc2ecbd2"
+
+[versions."4.0.11"]
+git = "https://github.com/thestk/rtaudio"
+commit = "fa0759941de32b91fd328c7ec412d2dd3255aa1e"
+
+[versions."4.1.0"]
+git = "https://github.com/thestk/rtaudio"
+commit = "4be80163cd9b85cbda79c37460ae1fc03608fd33"
+
+[versions."4.0.8"]
+git = "https://github.com/thestk/rtaudio"
+commit = "28d6722f3a2769f35a528a02550c22500b6aab1c"

@@ -1,0 +1,79 @@
+[versions."3.11.1"]
+git = "https://github.com/nlohmann/json"
+commit = "69d744867f8847c91a126fa25e9a6a3d67b3be41"
+
+[versions."3.7.2"]
+git = "https://github.com/nlohmann/json"
+commit = "411158d896c86e210b8fdea47a41522d4408380b"
+
+[versions."3.10.2"]
+git = "https://github.com/nlohmann/json"
+commit = "626e7d61e44dee32887126c8f437dd077dec09cf"
+
+[versions."3.11.3"]
+git = "https://github.com/nlohmann/json"
+commit = "9cca280a4d0ccf0c08f47a99aa71d1b0e52f8d03"
+
+[versions."3.6.1"]
+git = "https://github.com/nlohmann/json"
+commit = "1126c9ca74fdea22d2ce3a065ac0fcb5792cbdaf"
+
+[versions."3.10.1"]
+git = "https://github.com/nlohmann/json"
+commit = "7194245a314d142a5560f6906a87f7c67ebbcf2e"
+
+[versions."3.7.1"]
+git = "https://github.com/nlohmann/json"
+commit = "d98bf0278d6f59a58271425963a8422ff48fe249"
+
+[versions."3.7.0"]
+git = "https://github.com/nlohmann/json"
+commit = "53c3eefa2cf790a7130fed3e13a3be35c2f2ace2"
+
+[versions."3.10.3"]
+git = "https://github.com/nlohmann/json"
+commit = "aa0e847e5b57a00696bdcb6a834b927231b81613"
+
+[versions."3.10.4"]
+git = "https://github.com/nlohmann/json"
+commit = "fec56a1a16c6e1c1b1f4e116a20e79398282626c"
+
+[versions."3.6.0"]
+git = "https://github.com/nlohmann/json"
+commit = "51e1564c9e61c91c724503496a6c90e54eb591cc"
+
+[versions."3.9.0"]
+git = "https://github.com/nlohmann/json"
+commit = "d34771cafc87b358ba421faca28facc7f8080174"
+
+[versions."3.10.0"]
+git = "https://github.com/nlohmann/json"
+commit = "f42a74b8f53cc308647123d49d33d1c8122e3f42"
+
+[versions."3.7.3"]
+git = "https://github.com/nlohmann/json"
+commit = "e7b3b40b5a95bc74b9a7f662830a27c49ffc01b4"
+
+[versions."3.12.0"]
+git = "https://github.com/nlohmann/json"
+commit = "55f93686c01528224f448c19128836e7df245f72"
+
+[versions."3.11.0"]
+git = "https://github.com/nlohmann/json"
+commit = "499422b303f62568bd010516531b82f1b783d73b"
+
+[versions."3.10.5"]
+git = "https://github.com/nlohmann/json"
+commit = "4f8fba14066156b73f1189a2b8bd568bde5284c5"
+
+[versions."3.11.2"]
+git = "https://github.com/nlohmann/json"
+commit = "bc889afb4c5bf1c0d8ee29ef35eaaf4c8bef8a5d"
+
+[versions."3.8.0"]
+git = "https://github.com/nlohmann/json"
+commit = "e7452d87783fbf6e9d320d515675e26dfd1271c5"
+
+[versions."3.9.1"]
+git = "https://github.com/nlohmann/json"
+commit = "db78ac1d7716f56fc9f1b030b715f872f93964e4"

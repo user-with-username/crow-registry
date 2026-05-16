@@ -1,0 +1,79 @@
+[versions."20240116.0"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "4a2c63365eff8823a5221db86ef490e828306f9d"
+
+[versions."20240116.2"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "d7aaad83b488fd62bd51c81ecf16cd938532cc0a"
+
+[versions."20250814.1"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "d38452e1ee03523a208362186fd42248ff2609f6"
+
+[versions."20250127.0"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "9ac7062b1860d895fb5a8cbf58c3e9ef8f674b5f"
+
+[versions."20240722.0"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "4447c7562e3bc702ade25105912dce503f0c4010"
+
+[versions."20250512.1"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "76bb24329e8bf5f39704eb10d21b9a80befa7c81"
+
+[versions."20250127.2"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "3cb205c6ec976b465c532beb748da41c87db75d2"
+
+[versions."20250127.1"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "d9e4955c65cd4367dd6bf46f4ccb8cd3d100540b"
+
+[versions."20230802.2"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "929c17cf481222c35ff1652498994871120e832a"
+
+[versions."20250512.2"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "38bb0b9e7899b15ec710560e0ac5fd9713f053c8"
+
+[versions."20250814.0"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "987c57f325f7fa8472fa84e1f885f7534d391b0d"
+
+[versions."20250814.2"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "0cf0a5c9d12cc3783363ab20f11613e69fd04c9a"
+
+[versions."20260107.0"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "d407ef122a08203648451e0fec77b3f868b71112"
+
+[versions."20240116.1"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "2f9e432cce407ce0ae50676696666f33a77d42ac"
+
+[versions."20260107.1"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "255c84dadd029fd8ad25c5efb5933e47beaa00c7"
+
+[versions."20240722.2"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "216a6bed75c9ec254ae0e5af537e5b9635b45191"
+
+[versions."20240116.3"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "54fac219c4ef0bc379dfffb0b8098725d77ac81b"
+
+[versions."20240722.1"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "dd4c89bd657f1e247ce5111a5c89ffe6ccfd0c92"
+
+[versions."20250512.0"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "bc257a88f7c1939f24e0379f14a3589e926c950c"
+
+[versions."20230802.3"]
+git = "https://github.com/abseil/abseil-cpp"
+commit = "caa7bb4457bfcafcd55a940204ef78c1bf1f417d"

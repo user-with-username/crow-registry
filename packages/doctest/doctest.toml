@@ -1,0 +1,79 @@
+[versions."2.4.8"]
+git = "https://github.com/doctest/doctest"
+commit = "7b9885133108ae301ddd16e2651320f54cafeba7"
+
+[versions."2.5.0"]
+git = "https://github.com/doctest/doctest"
+commit = "d44d4f6e66232d716af82f00a063759e9d0e50d6"
+
+[versions."2.4.7"]
+git = "https://github.com/doctest/doctest"
+commit = "a384864346f48c7ff5608051c176e7bd505712ae"
+
+[versions."2.3.8"]
+git = "https://github.com/doctest/doctest"
+commit = "d5aa2bfb8f00b6260296a754af3a3a98d93f7b67"
+
+[versions."2.4.11"]
+git = "https://github.com/doctest/doctest"
+commit = "ae7a13539fb71f270b87eb2e874fbac80bc8dda2"
+
+[versions."2.4.4"]
+git = "https://github.com/doctest/doctest"
+commit = "97d5a9447e66cd5e107b7a6c463be4a468a40496"
+
+[versions."2.4.0"]
+git = "https://github.com/doctest/doctest"
+commit = "1c8da00c978c19e00a434b2b1f854fcffc9fba35"
+
+[versions."2.4.1"]
+git = "https://github.com/doctest/doctest"
+commit = "8424be522357e68d8c6178375546bb0cf9d5f6b3"
+
+[versions."2.4.10"]
+git = "https://github.com/doctest/doctest"
+commit = "8fdfd113dcb4ad1a31705ff8ddb13a21a505bad8"
+
+[versions."2.4.2"]
+git = "https://github.com/doctest/doctest"
+commit = "a075876fa784008e494730a06b851237895dca72"
+
+[versions."2.4.9"]
+git = "https://github.com/doctest/doctest"
+commit = "b7c21ec5ceeadb4951b00396fc1e4642dd347e5f"
+
+[versions."2.4.12"]
+git = "https://github.com/doctest/doctest"
+commit = "1da23a3e8119ec5cce4f9388e91b065e20bf06f5"
+
+[versions."2.5.1"]
+git = "https://github.com/doctest/doctest"
+commit = "415855d33e88146425c2d8db1825797e7b1a4c85"
+
+[versions."2.5.2"]
+git = "https://github.com/doctest/doctest"
+commit = "6804767ee637789db8a5cb281381cae98dc36906"
+
+[versions."2.3.5"]
+git = "https://github.com/doctest/doctest"
+commit = "0b0a37405e878628009c9378e2fafa49e1499878"
+
+[versions."2.4.3"]
+git = "https://github.com/doctest/doctest"
+commit = "352589e5c3bcce53bcbc05da2f2611d614348f3d"
+
+[versions."2.4.5"]
+git = "https://github.com/doctest/doctest"
+commit = "f0ab4e793fa863d4a5929ff263ddd3bebec8767e"
+
+[versions."2.4.6"]
+git = "https://github.com/doctest/doctest"
+commit = "4d8716f1efc1d14aa736ef52ee727bd4204f4c40"
+
+[versions."2.3.6"]
+git = "https://github.com/doctest/doctest"
+commit = "503de03ee2cbbfc58c2063dce36dc96f917f2da3"
+
+[versions."2.3.7"]
+git = "https://github.com/doctest/doctest"
+commit = "7d42bd0fab6c44010c8aed9338bd02bea5feba41"

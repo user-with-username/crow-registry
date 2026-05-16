@@ -1,0 +1,67 @@
+[versions."32.0"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "36efe2177e92f260b70970b4043cb8b5f9de7b70"
+
+[versions."34.1"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "4b0c3aacf0657fbf38253b38918d3358dd4319ec"
+
+[versions."33.4"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "edaa823d8b36a8656d7b2b9241b7d0bfe50af878"
+
+[versions."33.0"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "07cf37ec6f4d1bfedb47c2eade77d23c71d5e38f"
+
+[versions."35.0"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "8a74921d1cadfb987d7816d1cae9d2dbe89348a5"
+
+[versions."33.1"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "a8d85ffbc7158660b4247f732371d1b07780510e"
+
+[versions."30.2"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "43e1626812c1b543e56a7bec59dc09eb18248bd2"
+
+[versions."33.6"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "6e1998413a5bca7c058b85999667893f167434bc"
+
+[versions."31.0"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "a0b1123b3e36eb29c33a07d9c9ebe9e67f1106e4"
+
+[versions."30.0"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "d295af5c3002c08e1bfd9d7f9e175d0a4d015f1e"
+
+[versions."32.1"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "7fcfd66022455635fa29af92987cdc0967efd4f3"
+
+[versions."33.2"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "7ccf2060af4cd13c44a8659d0999be6c7a98fcc1"
+
+[versions."33.5"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "b6f9284da830b69be787732ffdaa35049d20a088"
+
+[versions."34.0"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "a651c245d882895ef9de80a02b85ef8271156a13"
+
+[versions."33.3"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "5a5c44c0cfb4926249e2ae6024acdda513cbd3ff"
+
+[versions."30.1"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "0d815c5b74281f081c1ee4b431a4d5bbb1615c97"
+
+[versions."31.1"]
+git = "https://github.com/protocolbuffers/protobuf"
+commit = "74211c0dfc2777318ab53c2cd2c317a2ef9012de"
