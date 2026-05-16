@@ -52,8 +52,8 @@ jobs:
             echo "operation=delete" >> "$GITHUB_OUTPUT"
 
           elif [ -n "$PREV" ] && [ -n "$NEW" ]; then
-            PREV_COMMIT=$(echo "$PREV" | grep '^commit = ' | cut -d'"' -f2)
-            NEW_COMMIT=$(echo  "$NEW"  | grep '^commit = ' | cut -d'"' -f2)
+            PREV_COMMIT=$(echo "$PREV" | grep '^commit = ' | cut -d'"' -f2 | tr -d '\r')
+            NEW_COMMIT=$(echo  "$NEW"  | grep '^commit = ' | cut -d'"' -f2 | tr -d '\r')
 
             if [ "$PREV_COMMIT" = "$NEW_COMMIT" ]; then
               echo "Error: commit hash did not change — nothing to update"
@@ -195,8 +195,8 @@ jobs:
 
           FILE_CONTENT=$(git show "origin/$HEAD:$FILE")
 
-          GIT_URL=$(echo "$FILE_CONTENT" | grep '^git = '    | cut -d'"' -f2)
-          COMMIT=$(echo  "$FILE_CONTENT" | grep '^commit = ' | cut -d'"' -f2)
+          GIT_URL=$(echo "$FILE_CONTENT" | grep '^git = '    | cut -d'"' -f2 | tr -d '\r')
+          COMMIT=$(echo  "$FILE_CONTENT" | grep '^commit = ' | cut -d'"' -f2 | tr -d '\r')
 
           if [ -z "$GIT_URL" ]; then
             echo "Error: missing 'git' field in $FILE"
