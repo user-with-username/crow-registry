@@ -1,3 +1,7 @@
+[versions."1.0.34"]
+git = "https://github.com/user-with-username/example_lib.git"
+commit = "c209bf1df6600ebf380d475145559fe03176ff3e"
+
 [versions."1.0.3"]
 git = "https://github.com/user-with-username/example_lib.git"
 commit = "c209bf1df6600ebf380d475145559fe03176ff3e"
