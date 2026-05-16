@@ -210,6 +210,8 @@ jobs:
           echo "git    = $GIT_URL"
           echo "commit = $COMMIT"
 
+          echo "$FILE_CONTENT" | cat -A | head -20
+
           git clone --quiet "$GIT_URL" /tmp/pkg
           cd /tmp/pkg
           if ! git cat-file -e "${COMMIT}^{commit}" 2>/dev/null; then
