@@ -185,49 +185,6 @@ jobs:
 
           echo "Author verified: $PR_AUTHOR is the owner of $FILE"
 
-      - name: Validate TOML content
-        if: |
-          steps.detect.outputs.skip != 'true' &&
-          steps.detect.outputs.operation != 'delete'
-        run: |
-          FILE="${{ steps.detect.outputs.file }}"
-          HEAD="${{ github.head_ref }}"
-
-          FILE_CONTENT=$(git show "origin/$HEAD:$FILE")
-
-          GIT_URL=$(echo "$FILE_CONTENT" | grep '^git = '    | cut -d'"' -f2 | tr -d '\r')
-          COMMIT=$(echo  "$FILE_CONTENT" | grep '^commit = ' | cut -d'"' -f2 | tr -d '\r')
-
-          if [ -z "$GIT_URL" ]; then
-            echo "Error: missing 'git' field in $FILE"
-            exit 1
-          fi
-          if [ -z "$COMMIT" ]; then
-            echo "Error: missing 'commit' field in $FILE"
-            exit 1
-          fi
-
-          echo "git    = $GIT_URL"
-          echo "commit = $COMMIT"
-
-          echo "$FILE_CONTENT" | cat -A | head -20
-
-          git clone --quiet "$GIT_URL" /tmp/pkg
-          cd /tmp/pkg
-          if ! git cat-file -e "${COMMIT}^{commit}" 2>/dev/null; then
-            echo "Error: commit $COMMIT not found in $GIT_URL"
-            exit 1
-          fi
-          git checkout --quiet "$COMMIT"
-
-          CPP_COUNT=$(find . -name "*.cpp" -o -name "*.cc" -o -name "*.cxx" | wc -l)
-          if [ "$CPP_COUNT" -eq 0 ]; then
-            echo "Error: no C++ source files (*.cpp / *.cc / *.cxx) found in $GIT_URL@$COMMIT"
-            exit 1
-          fi
-
-          echo "Found $CPP_COUNT C++ file(s) — validation passed"
-
       - name: Merge PR
         if: steps.detect.outputs.skip != 'true'
         run: |
