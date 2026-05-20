@@ -1,0 +1,659 @@
+[versions."0.45.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "28f8264d134a576422cd0f99f19719c2749d9e47"
+
+[versions."0.44.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "811dd0b6f2382f50f801f3cfdb5ba349d08bb575"
+
+[versions."0.43.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "600d220c84853f52011ae4b95fc8518742bcdfac"
+
+[versions."0.43.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ec5ce17929c56c8bb7f0307ce2af496bd017a3c9"
+
+[versions."0.43.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d412e98c62ebd1df432a595b1a015e56dab05022"
+
+[versions."0.43.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "33bc1df930363e73fb1fd97f8d475e4272b1f221"
+
+[versions."0.43.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "9f41fc04474bddefee69ecf0a8c7b03dffdad6f4"
+
+[versions."0.42.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ff04679538c66d1b90e95e5a5530e2dd2f1b3c53"
+
+[versions."0.41.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "073b58796205b928b61f4cae89ab4130b7f1aee0"
+
+[versions."0.40.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "b7e02de4a70024ed0389e0e7b971f674e4bc7d91"
+
+[versions."0.39.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "a77284a634bb0532ea197f50777fa3e830095dfd"
+
+[versions."0.38.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "6f2717e6230713484c4ee819fdd431723d29ea08"
+
+[versions."0.37.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "4d7c9a788de136071ccf0dd4e96239151e2adadb"
+
+[versions."0.37.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "68fa9bce0f1abb27fc7507c372c6ac0b75f8a878"
+
+[versions."0.37.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "0d3a3d805c8979e3220b42fcbc0ff95980eabc06"
+
+[versions."0.36.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "2e925abacc743b2f8a84f1f650190b664489740e"
+
+[versions."0.35.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "85b18a9c6431877188a706ba3c61679fa9de3e27"
+
+[versions."0.34.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "7c33fd47bf3ab74fe968e31c5e585598373e2d8c"
+
+[versions."0.33.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "e61a8bcec7119f0eaa63fc2642344b6c182aa9b0"
+
+[versions."0.33.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f1f8ff53d53096946a97416525a1079dd9e8a5b1"
+
+[versions."0.32.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c0adbb4b20f09cfca6fbf8468c91505df74894a4"
+
+[versions."0.31.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "2867b74f131200979b2b885683a189248d80e0f4"
+
+[versions."0.30.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "dc6faf5c17c1e3c30b5d59e31ae2e890a35e64e1"
+
+[versions."0.30.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "bd95e67c234930cd6d6bb11309588c5462c63cec"
+
+[versions."0.30.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "781c55f120f945d254832660ef9487776b8a90fc"
+
+[versions."0.29.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "5304464a53f793f8e3e4777ea5941d60cf8c91e3"
+
+[versions."0.28.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "adf58bf474fac638160592d6c3f67da4ebc7df20"
+
+[versions."0.27.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "eacc1ca98e5fef25184c7d417e8417225e05e65d"
+
+[versions."0.26.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "89c932f313c6437c38f2982869beacc89c2f2246"
+
+[versions."0.25.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "3f44c80fd345e859d6f61b2dda566aa3329ce35e"
+
+[versions."0.24.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "a5d4c143e52441307387ec65b05a2482083b6cbc"
+
+[versions."0.23.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ca5fe354fb83194bc72a676c4cc4136fca5316d0"
+
+[versions."0.23.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ecfd84c1712b1bfe92107e37843f97ecec537da9"
+
+[versions."0.22.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "b6c55c6030f5160d1a360a5a5180ba3205e2ce2f"
+
+[versions."0.21.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "3a1f379e751ef6555f06c5c1ef367a6fce26722c"
+
+[versions."0.20.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "3af7f2c16147f3fbc6e4d717032daf505dc1652c"
+
+[versions."0.20.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "787a34ad7f01f20922a237d5142aae469828be72"
+
+[versions."0.19.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "03cf43ebaa55f27a2778bed870ea3549f7e84e2c"
+
+[versions."0.18.7"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "5814e121dfb5049f72a5c3956c3c8961b40da78b"
+
+[versions."0.18.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "eb30f15363fd418103d8cf1dd64e206f51e5cbc8"
+
+[versions."0.18.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "37798003220c997c4a6dc30d35e76d478b53a6e2"
+
+[versions."0.18.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "54f8a4d0f34acb3cc508e337d9881296b70201ad"
+
+[versions."0.18.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "a7bc00e3307fecdb4d67545e93be7b88cfb1e186"
+
+[versions."0.18.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "51dee793fec2fa70239f5cf190e165b54803880f"
+
+[versions."0.18.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "5c1a34e766817cf0865ca8bc5af5edeb0f9b2df4"
+
+[versions."0.18.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "e64379c3d71ccf3f62e4e4853bfd1316901564b3"
+
+[versions."0.17.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "61c418048d8b0e42cc55e908c1c2da1e2f617f86"
+
+[versions."0.17.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ef63f97afe2080b5f9515c1933aa4942f456662a"
+
+[versions."0.17.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c88b09bc6be4300d07140c777719ba24fc6288a2"
+
+[versions."0.17.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "7f6d413ddd8304c8ff79c4cfaf89c7bcea8298a2"
+
+[versions."0.16.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "af56b7ec0ba9d18b788ed064f76d936eb52c5db5"
+
+[versions."0.16.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c5c54b31e2bf8bd37ceba2715de756d1132e3685"
+
+[versions."0.16.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "e00fd06355e8717032950a0a6e07cfa3d3df594e"
+
+[versions."0.16.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "8438df4a953da398fc794387618a3c9676b2ba7e"
+
+[versions."0.15.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "5c00bbf36ba8ff47b4fb97712fc38cb2884e5b98"
+
+[versions."0.15.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "80c0cc445e4c555e93758423c34e2b1df9d33bd2"
+
+[versions."0.15.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "b7cac4f4b80d74ba31be3865d637824067574f08"
+
+[versions."0.15.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "530d6ee09816d7d37032b03e122efca8bf9448e3"
+
+[versions."0.14.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "cbca63f091ef1147ff57e90eb1ee5e558aa05d2c"
+
+[versions."0.14.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f14accb7b6ff4499321e14c61497bc7e4b28e49b"
+
+[versions."0.14.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "a609330e4c6374f741d3b369269f7848255e1954"
+
+[versions."0.14.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "30b7732565c4630263b43c34267a605a1511f794"
+
+[versions."0.13.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c7ed1796a778592ae5a122287a16b1dd4770858a"
+
+[versions."0.13.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "e699bd0730695eb56aac2e12093d0807e336906f"
+
+[versions."0.13.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "0f1b62c2b3d0898cbab7aa685c2593303ffdc1a2"
+
+[versions."0.13.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "82acdca638b64e0c00b43e2b192fbce0a4de9567"
+
+[versions."0.12.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d3076f5a70695e35fd2c497e2e766ce72725dd69"
+
+[versions."0.12.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "27c0e1186c28f4f6a6864e0f8e14a2898a33a794"
+
+[versions."0.12.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "3409c00e6f5402eb4e300b45e44e11c3bdfe1a5c"
+
+[versions."0.12.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f977558a28d6db893cf42131c33d025fa17458e1"
+
+[versions."0.12.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "a66a013ed78dee11701d6075c6b713307004a126"
+
+[versions."0.12.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f2f47284890e9ed1ab1750a21c06441bdd5fcb6c"
+
+[versions."0.12.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "4e6ded1f36ec24d6428ab560f8c0ddfb653651e6"
+
+[versions."0.11.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "7992b148969fbf8093230b37a6a36c2f61135937"
+
+[versions."0.11.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c0b461a3b7b15877b5c8047b409c124aceec8fd9"
+
+[versions."0.11.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "8e10d4e8e7febafce0632810262e81e853b2065f"
+
+[versions."0.11.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d92c31446687cfa336a6332b1015b4fe289fbdec"
+
+[versions."0.11.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "25d72bf8817e08b1643fce33629ece8549e08002"
+
+[versions."0.10.9"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "5e6f973b99a001a68e52bfca254e42135ad3f4e0"
+
+[versions."0.10.8"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "219d13b7187319208fe538aff147797ca9757c29"
+
+[versions."0.10.7"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "9452c0a4b69c5e4e31169ed32e961d330695122c"
+
+[versions."0.10.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d87abeecf0ca2bd2899140208523413bef6fc523"
+
+[versions."0.10.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d05c34360212cda80d3a8d7fa3ea947b0d01f5ed"
+
+[versions."0.10.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "bb8e45383e9619ddf3de8fc63974ca8ebdbc3da5"
+
+[versions."0.10.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d73395e1dc652465fa9524266cd26ad57365491f"
+
+[versions."0.10.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "87e03dd1ceb676c40caeb84fd8f3573f59555f1d"
+
+[versions."0.10.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "b324921c1aeff2976544128e4bb2a0979a4aa595"
+
+[versions."0.10.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "4b0ed9ee884e63ba6a4d197fbc916aceecb56c22"
+
+[versions."0.9.10"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "9639578c2a05ae8b93f589ef2cf4ba42e222af90"
+
+[versions."0.9.9"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ddff782133afc4f4393bdd654ce957be3d20fda3"
+
+[versions."0.9.8"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "06026bb47d9506e12af2b163c8ace655737d31f2"
+
+[versions."0.9.7"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "b80aa7fee31a8712b1d3cae05c1d9e7f5c436e3d"
+
+[versions."0.9.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c7554ccac267f2dc8714886d965186157705eea1"
+
+[versions."0.9.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d87d0672a8e0f3695f168ff1f55028f6fbe4aedf"
+
+[versions."0.9.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ab477b5631e1a84eebbae1b25a64861d0f19d7ab"
+
+[versions."0.9.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "1cc69303633312c4b6201f75de6d465f3644c85c"
+
+[versions."0.9.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ccbddd88423d9ce364bfbaada130c36fa2fc1bd6"
+
+[versions."0.9.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "215b81342e764ffd93402dc22eef43677fa62441"
+
+[versions."0.9.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "fc9b223acc869e243111ca4936cb574d5f6e7434"
+
+[versions."0.8.9"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "089b9daa1c4b83bf6f2711a21d7e26a156d3a7c4"
+
+[versions."0.8.8"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "7c60e69c339b93c579c5f9c5bc0da4fba259f8ef"
+
+[versions."0.8.7"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "63643e6386653623a39908c095e3a425853cbb36"
+
+[versions."0.8.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "faa5f1d8023746a3da9f275c51867ded2a672ee9"
+
+[versions."0.8.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "b845425cd0ab18ce1b49284c8dab642a82fcf1b5"
+
+[versions."0.8.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "cf475bcb505678046d53f0e0575a9efaa5b227f9"
+
+[versions."0.8.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "0542fdb8e43930104b834f18e78a3441bbc75307"
+
+[versions."0.8.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "68d12817598009d82e1225c8c83c1b05afc55300"
+
+[versions."0.8.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "8d9a477edb3e9ae962a9a7aeb20bf70b571093a1"
+
+[versions."0.8.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "85b4abbf16079dd550b5e0e97f5f2fbea88e0972"
+
+[versions."0.7.18"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "40db42108f4303057a0494710ab06c796bb60448"
+
+[versions."0.7.17"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "88c961f37efb0205aae418a35b354935be3ff3ff"
+
+[versions."0.7.16"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "615867322d5088bbcae9756249c1395796bbd562"
+
+[versions."0.7.15"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "e1133a2dcb3436ac36c75452a569b609cdb58a0b"
+
+[versions."0.7.14"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f086bf5310a8ae86f8b99623c0b0157852f92a82"
+
+[versions."0.7.13"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "041122908ccced5982b48ce209e5a0e1e47a1f84"
+
+[versions."0.7.12"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c909ffa7583f0a5c1b04471890403f3d2a734362"
+
+[versions."0.7.11"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "953600c1775c5e8645c62e3f4eefd32d6c41cbdd"
+
+[versions."0.7.10"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "e155ba44bbf29209a496862d8cae3c145ff1bd2b"
+
+[versions."0.7.9"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "6d60dc88395f5d9c10156885fe63fba5907aabe8"
+
+[versions."0.7.8"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "cc14855ba07908ad414639160a3fc2eb91519a77"
+
+[versions."0.7.7"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "3da4a0ac69574c4998af05009d237454c481e071"
+
+[versions."0.7.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "852a37474892996c2a6968380f07eb0fe200f9fa"
+
+[versions."0.7.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d7e63b431631d9a76f4bcd9d710b7f0c3fe8daa2"
+
+[versions."0.7.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "cf084e1db14f1f7ebff25d7ed8e9c52776ddaaab"
+
+[versions."0.7.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "3e906a9b8cc88ad7b54ef9a7c53c07010a6f254f"
+
+[versions."0.7.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "342c3ab2930e6639ead484bca88a9dd7a8724239"
+
+[versions."0.7.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "6ad25b6cf004034fb92db35445209280ad373de9"
+
+[versions."0.7.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "42f9f9107f87ad2ee04be117dbbadd621c449552"
+
+[versions."0.6.7"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "3dfb4ecac2149cd47619cf251a504311a3ad1ca0"
+
+[versions."0.6.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d8612ac02dfa8647ab217685e050d97f504f5d5d"
+
+[versions."0.6.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "9af1a4a08ffae036384fe31032e29833381cfe03"
+
+[versions."0.6.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "0654e5dab4051c01580b07cdb452afc74e30a0fa"
+
+[versions."0.6.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "29fd136afd1d614653543670df667075a786e58d"
+
+[versions."0.6.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "66f698fab6b09a89412736d4e4bd010f1f6b5848"
+
+[versions."0.6.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f4c5d94d74e4e33320d42e7b010debe17e77a6ca"
+
+[versions."0.6.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "2c0613f211268ad80833264ca2c26bb4dba701af"
+
+[versions."0.5.13"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ba685dbe48e350944d00b588eb6d0e2868e3803d"
+
+[versions."0.5.12"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d45250fd88d9921a67e1c664c1643bbcaa4454f6"
+
+[versions."0.5.11"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "776b3ffbf95520047eb6e21ccdb9237eb5c4eaee"
+
+[versions."0.5.10"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "da746c6e6766d1ff78f04868bc261d48e7d675a4"
+
+[versions."0.5.9"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "85327e19ae7e72028c30917247238d638ce56d0b"
+
+[versions."0.5.8"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "402d47e2cd819e420fd28af074d8de0fb2d19a0f"
+
+[versions."0.5.7"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "bf7700d1924e12a27faa5d346a5b8a9f8e163b61"
+
+[versions."0.5.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f2bb9c45d6b81ec3f5dc630be6fc5d77db5f787d"
+
+[versions."0.5.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "fe01fa760b99831cc004c6ef5df8b326ebb81dff"
+
+[versions."0.5.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "ca5a50d2c94a0d4315d96b830f16cfb9110993c9"
+
+[versions."0.5.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "89740a808d934cd77c184423a8e6398d1b1ea6f2"
+
+[versions."0.5.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f94c3f1dc9107b57e17e273edfda2d622dd64b21"
+
+[versions."0.5.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "301a419c0243d3ab843e5fc2bb9fa56a9daa7bcd"
+
+[versions."0.5.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "a444b612af3107ad5df3339dd9b7cd67df6ad323"
+
+[versions."0.4.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "39c7bba7b97de88982e9a7aae7296572452777c1"
+
+[versions."0.4.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d2c7b447d514b153e84f64db5a17557b51dbd942"
+
+[versions."0.4.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "5324b3d661caaed4c9962e3a0cb4e48bb60877bf"
+
+[versions."0.3.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "048f31109fc81ed6340df2c7a6145b79b994985b"
+
+[versions."0.3.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "f6a2365ca58ba43e9700b370d19ad06e04ac8205"
+
+[versions."0.3.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "033bc357234eb7db21494347d87d261fb5037066"
+
+[versions."0.3.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "d910bfc303abb8c337f18223fb92b04044ce087f"
+
+[versions."0.2.6"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "448de6a9c62dd39937cca994929bca84004db7e4"
+
+[versions."0.2.5"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "dcdb0d047b375ee50794fa9214cee3a1cea36066"
+
+[versions."0.2.4"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "531708816a2381bf60d41ddf650f486a3bf00864"
+
+[versions."0.2.3"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "e2babf315c454822963e089fcb010dbb111a5e73"
+
+[versions."0.2.2"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "c434d555bb587e6d90ded892d898cb5142541779"
+
+[versions."0.2.1"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "7231f6fe0070d70ef3115bdc0aa3df186be0d626"
+
+[versions."0.2.0"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "2f8479016fa9af9a63056571992b31c32741d89b"
+
+[versions."latest"]
+git = "https://github.com/yhirose/cpp-httplib"
+commit = "28f8264d134a576422cd0f99f19719c2749d9e47"
